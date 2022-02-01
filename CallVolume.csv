@@ -1,0 +1,1039 @@
+Unnamed: 0,Unnamed: 1,CallVolumes,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10
+Type: Call Reports,,,,,,,,,,
+All Calls: From 1/31/2022 12:00:00 AM To 1/31/2022 11:59:59 PM,,,,,,,,,,
+Caller ID: Any number,,,,,,,,,,
+Destination: Any number,,,,,,,,,,
+Call Time,Caller ID,,Destination,Status,Ringing,Talking,Totals,Cost,Reason,Play
+1/31/2022 7:42:11 AM,+254707879854,,IVR (802),answered,00:00:01,00:00:01,00:00:02,0.00,Terminated by +254707879854,
+1/31/2022 8:01:24 AM,+254722722002,,IVR (802),answered,00:00:00,00:00:15,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722722002,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:18,,,Terminated by +254722722002,
+1/31/2022 8:02:04 AM,Joseph Theuri (121),,+254722722002,answered,00:00:13,00:00:19,00:00:32,0.32,Terminated by +254722722002,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-%252B254722722002_20220131050217%25281537%2529.wav
+1/31/2022 8:02:49 AM,+254722722002,,IVR (802),answered,00:00:00,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722722002,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:05,,,Terminated by +254722722002,
+1/31/2022 8:01:24 AM,+254716702003,,IVR (802),answered,00:00:01,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254716702003,,Q Customer Care #1 (800),answered,00:00:00,00:00:41,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254716702003,,Lucy Muchene (119),answered,00:00:11,00:01:12,00:02:15,0.00,Terminated by +254716702003,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254716702003%255D_%252B254716702003-119_20220131050216%25281536%2529.wav
+1/31/2022 8:04:26 AM,+254723928878,,IVR (802),answered,00:00:01,00:00:17,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254723928878,,Q Customer Care #1 (800),unanswered,00:00:01,00:00:16,,,Terminated by +254723928878,
+1/31/2022 8:07:03 AM,Lucy Muchene (119),,0728878275,unanswered,00:00:08,00:00:00,00:00:08,0.00,Failed,
+1/31/2022 8:05:09 AM,+254723928878,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254723928878,,Q Clinical Care #2 (801),answered,00:00:01,00:00:15,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,+254723928878,,Martha Njoroge (021),answered,00:00:15,00:00:00,,,Picked up by Martha Njoroge (021),
+,+254723928878,,Martha Njoroge (021),answered,00:00:00,00:01:57,00:02:40,0.00,Terminated by +254723928878,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-%252B254723928878_20220131050537%25281541%2529.wav
+1/31/2022 8:09:08 AM,+254723928878,,IVR (802),answered,00:00:00,00:00:08,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254723928878,,Q Clinical Care #2 (801),answered,00:00:00,00:00:16,,,Q Clinical Care #2 (801) replaced by Lilian Hewa (116),
+,+254723928878,,Lilian Hewa (116),answered,00:00:16,00:00:00,,,Picked up by Lilian Hewa (116),
+,+254723928878,,Lilian Hewa (116),answered,00:00:00,00:01:07,00:01:47,0.00,Terminated by +254723928878,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254723928878_20220131050932%25281544%2529.wav
+1/31/2022 8:17:51 AM,+254707569347,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254707569347,,Q Clinical Care #2 (801),answered,00:00:00,00:00:11,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,+254707569347,,Martha Njoroge (021),answered,00:00:10,00:00:20,00:00:54,0.00,Terminated by +254707569347,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A%252B254707569347%255D_%252B254707569347-021_20220131051815%25281545%2529.wav
+1/31/2022 8:19:14 AM,Martha Njoroge (021),,Lilian Hewa (116),answered,00:00:09,00:00:07,00:00:16,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-116_20220131051923%25281546%2529.wav
+1/31/2022 8:19:37 AM,Martha Njoroge (021),,707569347,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 8:20:18 AM,Martha Njoroge (021),,707569347,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 8:21:52 AM,Lilian Hewa (116),,254725305220,answered,00:00:19,00:00:43,00:01:02,0.72,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254725305220_20220131052211%25281549%2529.wav
+1/31/2022 8:22:05 AM,Martha Njoroge (021),,+254707569347,answered,00:00:07,00:01:20,00:01:27,1.33,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-%252B254707569347_20220131052212%25281550%2529.wav
+1/31/2022 8:24:42 AM,Martha Njoroge (021),,+254707569347,answered,00:00:10,00:00:16,00:00:26,0.27,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-%252B254707569347_20220131052452%25281551%2529.wav
+1/31/2022 8:28:33 AM,Lilian Hewa (116),,254729991586,answered,00:00:16,00:00:34,00:00:50,0.57,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254729991586_20220131052849%25281552%2529.wav
+1/31/2022 8:29:50 AM,+254726702396,,IVR (802),answered,00:00:01,00:00:12,00:00:13,0.00,Terminated by +254726702396,
+1/31/2022 8:31:50 AM,254708337641,,IVR (802),answered,00:00:00,00:00:09,00:00:09,0.00,Terminated by 254708337641,
+1/31/2022 8:32:07 AM,254708337641,,IVR (802),answered,00:00:00,00:00:00,00:00:00,0.00,Terminated by 254708337641,
+1/31/2022 8:31:13 AM,Lilian Hewa (116),,254728931160,answered,00:00:26,00:00:37,00:01:03,0.62,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254728931160_20220131053139%25281555%2529.wav
+1/31/2022 8:30:07 AM,+254726702396,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254726702396,,Q Customer Care #1 (800),answered,00:00:01,00:00:04,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,+254726702396,,Joseph Theuri (121),answered,00:00:04,00:03:19,00:03:41,0.00,Terminated by +254726702396,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A%252B254726702396%255D_%252B254726702396-121_20220131053025%25281554%2529.wav
+1/31/2022 8:33:25 AM,Lilian Hewa (116),,254746180950,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 8:32:52 AM,254708337641,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254708337641,,Q Customer Care #1 (800),answered,00:00:00,00:00:12,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,254708337641,,Lucy Muchene (119),answered,00:00:12,00:01:23,00:02:00,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A254708337641%255D_254708337641-119_20220131053317%25281558%2529.wav
+1/31/2022 8:34:44 AM,Lilian Hewa (116),,254711500326,answered,00:00:33,00:00:11,00:00:44,0.18,Terminated by 254711500326,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254711500326_20220131053517%25281560%2529.wav
+1/31/2022 8:42:52 AM,Lilian Hewa (116),,254115168511,unanswered,00:00:09,00:00:00,00:00:09,0.00,Failed,
+1/31/2022 8:43:46 AM,Lilian Hewa (116),,254703481586,unanswered,00:00:09,00:00:00,00:00:09,0.00,Failed,
+1/31/2022 8:44:04 AM,Lucy Muchene (119),,254716936017,unanswered,00:00:12,00:00:00,00:00:12,0.00,Failed,
+1/31/2022 8:45:09 AM,Martha Njoroge (021),,254745155118,answered,00:00:06,00:00:58,00:01:04,0.97,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254745155118_20220131054515%25281564%2529.wav
+1/31/2022 8:46:15 AM,Lilian Hewa (116),,254112986494,answered,00:00:15,00:00:32,00:00:47,0.53,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254112986494_20220131054630%25281565%2529.wav
+1/31/2022 8:47:11 AM,Martha Njoroge (021),,254745155118,answered,00:00:04,00:00:21,00:00:25,0.35,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254745155118_20220131054715%25281566%2529.wav
+1/31/2022 8:47:14 AM,Lilian Hewa (116),,254728007178,answered,00:00:19,00:00:35,00:00:54,0.58,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254728007178_20220131054733%25281567%2529.wav
+1/31/2022 8:48:14 AM,Lilian Hewa (116),,254716687592,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 8:49:32 AM,Lilian Hewa (116),,254769879593,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 8:50:19 AM,Martha Njoroge (021),,254745155118,answered,00:00:06,00:00:22,00:00:28,0.37,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254745155118_20220131055025%25281570%2529.wav
+1/31/2022 8:50:48 AM,208644458,,IVR (802),answered,00:00:01,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,208644458,,Q Customer Care #1 (800),answered,00:00:00,00:00:10,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,208644458,,Joseph Theuri (121),answered,00:00:10,00:00:47,00:01:18,0.00,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A208644458%255D_208644458-121_20220131055109%25281571%2529.wav
+1/31/2022 8:52:07 AM,Joseph Theuri (121),,208644458,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 8:52:10 AM,Joseph Theuri (121),,208644458,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 8:55:51 AM,Martha Njoroge (021),,254723773725,unanswered,00:00:28,00:00:00,00:00:28,0.00,Failed,
+1/31/2022 8:54:35 AM,Lilian Hewa (116),,254724121688,answered,00:00:20,00:01:50,00:02:10,1.83,Terminated by 254724121688,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254724121688_20220131055455%25281574%2529.wav
+1/31/2022 8:57:58 AM,Lilian Hewa (116),,254792869928,answered,00:00:09,00:00:29,00:00:38,0.48,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254792869928_20220131055807%25281577%2529.wav
+1/31/2022 8:55:51 AM,+254727034471,,IVR (802),answered,00:00:00,00:00:16,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254727034471,,Q Clinical Care #2 (801),answered,00:00:00,00:00:15,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,+254727034471,,Martha Njoroge (021),answered,00:00:02,00:03:22,00:03:55,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A%252B254727034471%255D_%252B254727034471-021_20220131055622%25281575%2529.wav
+1/31/2022 8:59:27 AM,Lilian Hewa (116),,254720166213,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 9:03:20 AM,Lilian Hewa (116),,254724578573,unanswered,00:00:17,00:00:00,00:00:17,0.00,Failed,
+1/31/2022 9:05:26 AM,Lilian Hewa (116),,254791488576,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 9:05:47 AM,Martha Njoroge (021),,254720829510,unanswered,00:00:37,00:00:00,00:00:37,0.00,Failed,
+1/31/2022 9:06:35 AM,+254727781699,,IVR (802),answered,00:00:00,00:00:06,00:00:06,0.00,Terminated by +254727781699,
+1/31/2022 9:06:35 AM,Lilian Hewa (116),,254746827196,answered,00:00:22,00:00:37,00:00:59,0.62,Terminated by 254746827196,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254746827196_20220131060657%25281583%2529.wav
+1/31/2022 9:07:51 AM,Lilian Hewa (116),,254720166213,answered,00:00:17,00:00:33,00:00:50,0.55,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254720166213_20220131060808%25281585%2529.wav
+1/31/2022 9:09:07 AM,+254716687592,,IVR (802),answered,00:00:00,00:00:04,00:00:04,0.00,Terminated by +254716687592,
+1/31/2022 9:07:47 AM,Lucy Muchene (119),,Martha Njoroge (021),answered,00:00:05,00:02:04,00:02:09,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-021_20220131060752%25281584%2529.wav
+1/31/2022 9:09:46 AM,Lilian Hewa (116),,254723368294,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 9:10:26 AM,Joseph Theuri (121),,208644458,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 9:10:48 AM,Joseph Theuri (121),,208644458,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 9:10:50 AM,Joseph Theuri (121),,208644458,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 9:08:17 AM,+254727781699,,IVR (802),answered,00:00:01,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254727781699,,Q Customer Care #1 (800),answered,00:00:01,00:01:42,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254727781699,,Lucy Muchene (119),answered,00:00:10,00:00:49,00:02:53,0.00,Terminated by +254727781699,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254727781699%255D_%252B254727781699-119_20220131061011%25281586%2529.wav
+1/31/2022 9:12:43 AM,Martha Njoroge (021),,254724966666,answered,00:00:19,00:00:34,00:00:53,0.57,Terminated by 254724966666,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254724966666_20220131061302%25281593%2529.wav
+1/31/2022 9:13:14 AM,Joseph Theuri (121),,723928878,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 9:13:21 AM,+254716702003,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254716702003,,Q Customer Care #1 (800),answered,00:00:00,00:00:07,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254716702003,,Lucy Muchene (119),answered,00:00:07,00:00:35,00:01:01,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254716702003%255D_%252B254716702003-119_20220131061340%25281595%2529.wav
+1/31/2022 9:11:59 AM,+254727034471,,IVR (802),answered,00:00:01,00:00:13,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254727034471,,Q Clinical Care #2 (801),answered,00:00:00,00:00:04,,,Q Clinical Care #2 (801) replaced by Lilian Hewa (116),
+,+254727034471,,Lilian Hewa (116),answered,00:00:04,00:02:00,00:02:22,0.00,Terminated by +254727034471,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BClinical%2520Care%2520%25232%25253A%252B254727034471%255D_%252B254727034471-116_20220131061217%25281592%2529.wav
+1/31/2022 9:14:32 AM,+254720829510,,IVR (802),answered,00:00:01,00:00:03,00:00:04,0.00,Terminated by +254720829510,
+1/31/2022 9:14:12 AM,Joseph Theuri (121),,+254722722002,answered,00:00:30,00:01:08,00:01:38,1.13,Terminated by +254722722002,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-%252B254722722002_20220131061442%25281596%2529.wav
+1/31/2022 9:15:43 AM,Lilian Hewa (116),,254792670703,answered,00:00:12,00:00:29,00:00:41,0.48,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254792670703_20220131061555%25281599%2529.wav
+1/31/2022 9:17:53 AM,Lilian Hewa (116),,254748899340,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 9:19:27 AM,+254719483131,,IVR (802),answered,00:00:00,00:00:08,00:00:08,0.00,Terminated by +254719483131,
+1/31/2022 9:20:03 AM,Lilian Hewa (116),,254729857168,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 9:20:41 AM,Lucy Muchene (119),,254716936017,unanswered,00:00:12,00:00:00,00:00:12,0.00,Failed,
+1/31/2022 9:20:52 AM,Joseph Theuri (121),,254115200742,answered,00:00:18,00:00:03,00:00:21,0.05,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254115200742_20220131062110%25281604%2529.wav
+1/31/2022 9:14:52 AM,+254727034471,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254727034471,,Q Clinical Care #2 (801),answered,00:00:01,00:00:09,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,+254727034471,,Martha Njoroge (021),answered,00:00:09,00:06:00,00:06:32,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A%252B254727034471%255D_%252B254727034471-021_20220131061515%25281598%2529.wav
+1/31/2022 9:21:38 AM,+254703744312,,IVR (802),answered,00:00:00,00:00:06,00:00:06,0.00,Terminated by +254703744312,
+1/31/2022 9:22:05 AM,+254703744312,,IVR (802),answered,00:00:00,00:00:31,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254703744312,,Q Clinical Care #2 (801),answered,00:00:00,00:00:04,,,Q Clinical Care #2 (801) replaced by Lilian Hewa (116),
+,+254703744312,,Lilian Hewa (116),answered,00:00:03,00:00:37,00:01:15,0.00,Terminated by +254703744312,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BClinical%2520Care%2520%25232%25253A%252B254703744312%255D_%252B254703744312-116_20220131062240%25281606%2529.wav
+1/31/2022 9:24:09 AM,Lilian Hewa (116),,254757883362,answered,00:00:15,00:00:48,00:01:03,0.80,Terminated by 254757883362,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254757883362_20220131062424%25281607%2529.wav
+1/31/2022 9:26:33 AM,Lilian Hewa (116),,254723178493,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 9:25:15 AM,Martha Njoroge (021),,+254727034471,answered,00:00:15,00:03:30,00:03:45,3.50,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-%252B254727034471_20220131062530%25281608%2529.wav
+1/31/2022 9:28:36 AM,Lilian Hewa (116),,254705611788,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 9:29:42 AM,Lilian Hewa (116),,254743845550,answered,00:00:12,00:00:34,00:00:46,0.57,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254743845550_20220131062954%25281611%2529.wav
+1/31/2022 9:31:08 AM,Lilian Hewa (116),,254797568264,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 9:30:18 AM,Martha Njoroge (021),,254720580353,answered,00:00:10,00:00:48,00:00:58,0.80,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254720580353_20220131063028%25281612%2529.wav
+1/31/2022 9:31:20 AM,Martha Njoroge (021),,254723677257,answered,00:00:10,00:00:29,00:00:39,0.48,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254723677257_20220131063130%25281614%2529.wav
+1/31/2022 9:32:10 AM,Martha Njoroge (021),,254720616363,answered,00:00:10,00:00:31,00:00:41,0.52,Terminated by 254720616363,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254720616363_20220131063220%25281615%2529.wav
+1/31/2022 9:33:41 AM,Lilian Hewa (116),,254795848579,answered,00:00:12,00:00:47,00:00:59,0.78,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254795848579_20220131063353%25281616%2529.wav
+1/31/2022 9:34:52 AM,Martha Njoroge (021),,254719289874,answered,00:00:09,00:00:24,00:00:33,0.40,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254719289874_20220131063501%25281617%2529.wav
+1/31/2022 9:35:15 AM,Lilian Hewa (116),,254706959776,answered,00:00:25,00:00:02,00:00:27,0.03,Terminated by 254706959776,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254706959776_20220131063540%25281619%2529.wav
+1/31/2022 9:35:28 AM,Martha Njoroge (021),,254720829510,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 9:35:13 AM,+254722227873,,IVR (802),answered,00:00:01,00:00:15,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254722227873,,Q Clinical Care #2 (801),answered,00:00:00,00:00:20,,,Q Clinical Care #2 (801) replaced by Lilian Hewa (116),
+,+254722227873,,Lilian Hewa (116),answered,00:00:06,00:00:37,00:01:19,0.00,Terminated by +254722227873,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BClinical%2520Care%2520%25232%25253A%252B254722227873%255D_%252B254722227873-116_20220131063549%25281618%2529.wav
+1/31/2022 9:36:12 AM,Martha Njoroge (021),,254721366528,unanswered,00:00:22,00:00:00,00:00:22,0.00,Failed,
+1/31/2022 9:37:39 AM,Martha Njoroge (021),,254721366528,unanswered,00:00:13,00:00:00,00:00:13,0.00,Failed,
+1/31/2022 9:38:19 AM,Martha Njoroge (021),,254722630159,answered,00:00:15,00:00:27,00:00:42,0.45,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254722630159_20220131063834%25281623%2529.wav
+1/31/2022 9:38:58 AM,+254718348838,,IVR (802),answered,00:00:00,00:00:15,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254718348838,,Q Clinical Care #2 (801),answered,00:00:00,00:00:04,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,+254718348838,,Martha Njoroge (021),answered,00:00:03,00:01:03,00:01:25,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A%252B254718348838%255D_%252B254718348838-021_20220131063917%25281624%2529.wav
+1/31/2022 9:41:25 AM,Lucy Muchene (119),,Joseph Theuri (121),answered,00:00:05,00:00:36,00:00:41,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-121_20220131064130%25281625%2529.wav
+1/31/2022 9:42:32 AM,Lilian Hewa (116),,254728330076,answered,00:00:22,00:00:41,00:01:03,0.68,Terminated by 254728330076,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254728330076_20220131064254%25281626%2529.wav
+1/31/2022 9:43:44 AM,254111012500,,IVR (802),answered,00:00:00,00:01:01,00:01:01,0.00,Terminated by 254111012500,
+1/31/2022 9:44:45 AM,Martha Njoroge (021),,254720829510,unanswered,00:00:37,00:00:00,00:00:37,0.00,Failed,
+1/31/2022 9:45:01 AM,Lilian Hewa (116),,254707719768,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 9:45:37 AM,Martha Njoroge (021),,254705497522,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 9:46:38 AM,Martha Njoroge (021),,254705392421,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 9:46:45 AM,Lilian Hewa (116),,254768392139,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 9:47:31 AM,Lilian Hewa (116),,254723613450,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 9:47:46 AM,Martha Njoroge (021),,254723943864,answered,00:00:12,00:00:33,00:00:45,0.55,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254723943864_20220131064758%25281634%2529.wav
+1/31/2022 9:48:08 AM,Lilian Hewa (116),,254729745979,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 9:48:45 AM,Martha Njoroge (021),,254071596782,unanswered,00:00:00,00:00:00,00:00:00,0.00,Failed,
+1/31/2022 9:49:22 AM,Lucy Muchene (119),,Joseph Theuri (121),unanswered,00:00:18,00:00:00,00:00:18,0.00,Failed Canceled,
+1/31/2022 9:49:23 AM,Martha Njoroge (021),,254790913718,answered,00:00:13,00:00:32,00:00:45,0.53,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254790913718_20220131064936%25281638%2529.wav
+1/31/2022 9:49:23 AM,Lilian Hewa (116),,254713183761,answered,00:00:15,00:00:37,00:00:52,0.62,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254713183761_20220131064938%25281639%2529.wav
+1/31/2022 9:50:12 AM,Martha Njoroge (021),,254728982919,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 9:50:48 AM,Martha Njoroge (021),,254725291248,unanswered,00:00:29,00:00:00,00:00:29,0.00,Failed,
+1/31/2022 9:51:46 AM,Lilian Hewa (116),,254717770111,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 9:51:39 AM,Martha Njoroge (021),,254718299107,answered,00:00:09,00:00:35,00:00:44,0.58,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254718299107_20220131065148%25281642%2529.wav
+1/31/2022 9:52:25 AM,Lilian Hewa (116),,254716316303,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 9:54:06 AM,Lilian Hewa (116),,254701907764,answered,00:00:16,00:00:37,00:00:53,0.62,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254701907764_20220131065422%25281645%2529.wav
+1/31/2022 9:54:31 AM,Martha Njoroge (021),,254729285747,answered,00:00:14,00:00:56,00:01:10,0.93,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254729285747_20220131065445%25281646%2529.wav
+1/31/2022 9:55:45 AM,Martha Njoroge (021),,254702851026,answered,00:00:09,00:00:46,00:00:55,0.77,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254702851026_20220131065554%25281647%2529.wav
+1/31/2022 9:56:50 AM,+254723598321,,IVR (802),answered,00:00:00,00:00:14,00:00:14,0.00,Terminated by +254723598321,
+1/31/2022 9:56:59 AM,Martha Njoroge (021),,254716456824,answered,00:00:33,00:00:29,00:01:02,0.48,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254716456824_20220131065732%25281649%2529.wav
+1/31/2022 9:58:37 AM,Martha Njoroge (021),,+254724382516,answered,00:00:18,00:00:38,00:00:56,0.63,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-724382516_20220131065855%25281650%2529.wav
+1/31/2022 9:59:55 AM,Martha Njoroge (021),,254718299107,answered,00:00:28,00:00:37,00:01:05,0.62,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254718299107_20220131070023%25281651%2529.wav
+1/31/2022 10:00:08 AM,Lilian Hewa (116),,254723113520,unanswered,00:01:00,00:00:00,00:01:00,0.00,Failed,
+1/31/2022 10:01:08 AM,Martha Njoroge (021),,254726957492,answered,00:00:23,00:00:26,00:00:49,0.43,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254726957492_20220131070131%25281653%2529.wav
+1/31/2022 10:01:12 AM,Lilian Hewa (116),,254711906058,answered,00:00:25,00:01:28,00:01:53,1.47,Terminated by 254711906058,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254711906058_20220131070137%25281654%2529.wav
+1/31/2022 10:02:28 AM,Martha Njoroge (021),,254710271919,answered,00:00:15,00:00:29,00:00:44,0.48,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254710271919_20220131070243%25281655%2529.wav
+1/31/2022 10:03:18 AM,Martha Njoroge (021),,254722999892,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 10:03:31 AM,+254722956360,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722956360,,Q Customer Care #1 (800),unanswered,00:00:01,00:00:17,,,Terminated by +254722956360,
+1/31/2022 10:04:05 AM,254722999892,,IVR (802),answered,00:00:00,00:00:06,00:00:06,0.00,Terminated by 254722999892,
+1/31/2022 10:05:01 AM,Lilian Hewa (116),,254711906058,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 10:05:30 AM,+254720829510,,IVR (802),answered,00:00:01,00:00:05,00:00:06,0.00,Terminated by +254720829510,
+1/31/2022 10:04:11 AM,Martha Njoroge (021),,254710616011,answered,00:00:24,00:01:13,00:01:37,1.22,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254710616011_20220131070435%25281660%2529.wav
+1/31/2022 10:03:56 AM,+254780202436,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254780202436,,Q Customer Care #1 (800),answered,00:00:00,00:00:02,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254780202436,,Lucy Muchene (119),answered,00:00:01,00:01:56,00:02:12,0.00,Terminated by +254780202436,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254780202436%255D_%252B254780202436-119_20220131070411%25281658%2529.wav
+1/31/2022 10:05:38 AM,Lilian Hewa (116),,254727582319,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 10:05:52 AM,Martha Njoroge (021),,254700814898,answered,00:00:07,00:00:21,00:00:28,0.35,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254700814898_20220131070559%25281664%2529.wav
+1/31/2022 10:06:24 AM,Lilian Hewa (116),,254707327238,answered,00:00:09,00:00:37,00:00:46,0.62,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254707327238_20220131070633%25281665%2529.wav
+1/31/2022 10:07:14 AM,Lilian Hewa (116),,254708857635,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 10:07:03 AM,Martha Njoroge (021),,254720252168,answered,00:00:10,00:00:46,00:00:56,0.77,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254720252168_20220131070713%25281667%2529.wav
+1/31/2022 10:06:36 AM,+254722956360,,IVR (802),answered,00:00:01,00:00:14,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254722956360,,Q Clinical Care #2 (801),answered,00:00:01,00:00:24,,,Q Clinical Care #2 (801) replaced by Eunitor Owour (124),
+,+254722956360,,Eunitor Owour (124),answered,00:00:24,00:01:14,00:02:18,0.00,Terminated by +254722956360,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BClinical%2520Care%2520%25232%25253A%252B254722956360%255D_%252B254722956360-124_20220131070716%25281666%2529.wav
+1/31/2022 10:10:55 AM,Martha Njoroge (021),,254720252168,answered,00:00:10,00:00:11,00:00:21,0.18,Terminated by 254720252168,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254720252168_20220131071105%25281669%2529.wav
+1/31/2022 10:11:21 AM,Martha Njoroge (021),,254724342107,answered,00:00:12,00:00:33,00:00:45,0.55,Terminated by 254724342107,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254724342107_20220131071133%25281670%2529.wav
+1/31/2022 10:12:18 AM,Lilian Hewa (116),,254726084711,answered,00:00:19,00:00:45,00:01:04,0.75,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254726084711_20220131071237%25281671%2529.wav
+1/31/2022 10:13:46 AM,Lilian Hewa (116),,254726302001,unanswered,00:00:21,00:00:00,00:00:21,0.00,Failed,
+1/31/2022 10:12:54 AM,Martha Njoroge (021),,254724215084,answered,00:00:07,00:01:16,00:01:23,1.27,Terminated by 254724215084,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254724215084_20220131071301%25281672%2529.wav
+1/31/2022 10:13:38 AM,Lucy Muchene (119),,254700058168,answered,00:00:26,00:00:44,00:01:10,0.73,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-254700058168_20220131071404%25281673%2529.wav
+1/31/2022 10:14:49 AM,Lilian Hewa (116),,254710815326,answered,00:00:21,00:00:38,00:00:59,0.63,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254710815326_20220131071510%25281675%2529.wav
+1/31/2022 10:16:10 AM,Lilian Hewa (116),,254723748793,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 10:16:22 AM,Joseph Theuri (121),,Lucy Muchene (119),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (119)",
+,Joseph Theuri (121),,VMail (119),answered,00:00:00,00:00:04,00:00:24,0.00,Terminated by Joseph Theuri (121),
+1/31/2022 10:16:51 AM,Lucy Muchene (119),,722956360,unanswered,00:00:03,00:00:00,00:00:03,0.00,Failed,
+1/31/2022 10:17:18 AM,Lilian Hewa (116),,254728244802,unanswered,00:00:19,00:00:00,00:00:19,0.00,Failed,
+1/31/2022 10:17:18 AM,Joseph Theuri (121),,Lucy Muchene (119),answered,00:00:02,00:00:52,00:00:54,0.00,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-119_20220131071720%25281679%2529.wav
+1/31/2022 10:18:31 AM,Lilian Hewa (116),,254724521093,answered,00:00:14,00:00:39,00:00:53,0.65,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254724521093_20220131071845%25281682%2529.wav
+1/31/2022 10:17:44 AM,+254795848579,,IVR (802),answered,00:00:01,00:00:43,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254795848579,,Q Customer Care #1 (800),answered,00:00:00,00:00:07,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,+254795848579,,Joseph Theuri (121),answered,00:00:06,00:00:53,00:01:50,0.00,Terminated by +254795848579,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A%252B254795848579%255D_%252B254795848579-121_20220131071835%25281681%2529.wav
+1/31/2022 10:20:46 AM,+254720429708,,IVR (802),answered,00:00:00,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254720429708,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:21,,,Terminated by +254720429708,
+1/31/2022 10:18:55 AM,254722427138,,IVR (802),answered,00:00:00,00:00:16,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,254722427138,,Q Clinical Care #2 (801),answered,00:00:00,00:00:20,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,254722427138,,Martha Njoroge (021),answered,00:00:20,00:02:38,00:03:34,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A254722427138%255D_254722427138-021_20220131071931%25281683%2529.wav
+1/31/2022 10:25:05 AM,Lilian Hewa (116),,07222427138,unanswered,00:00:10,00:00:00,00:00:10,0.00,Failed,
+1/31/2022 10:26:45 AM,+254715508231,,IVR (802),answered,00:00:00,00:00:02,00:00:02,0.00,Terminated by +254715508231,
+1/31/2022 10:28:11 AM,+254724220009,,IVR (802),answered,00:00:00,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254724220009,,Q Customer Care #1 (800),answered,00:00:01,00:00:10,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254724220009,,Lucy Muchene (119),answered,00:00:10,00:00:51,00:01:23,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254724220009%255D_%252B254724220009-119_20220131072833%25281688%2529.wav
+1/31/2022 10:29:37 AM,+254100500819,,IVR (802),answered,00:00:01,00:00:15,00:00:16,0.00,Terminated by +254100500819,
+1/31/2022 10:29:25 AM,Janeffer Chege (123),,254720859210,answered,00:00:17,00:00:17,00:00:34,0.28,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254720859210_20220131072942%25281689%2529.wav
+1/31/2022 10:29:51 AM,Lucy Muchene (119),,+254114396968,answered,00:00:07,00:00:39,00:00:46,0.65,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-0114396968_20220131072958%25281691%2529.wav
+1/31/2022 10:30:18 AM,Janeffer Chege (123),,+254712646193,answered,00:00:08,00:00:44,00:00:52,0.73,Terminated by +254712646193,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0712646193_20220131073026%25281692%2529.wav
+1/31/2022 10:30:49 AM,Lucy Muchene (119),,+254724220009,answered,00:00:13,00:00:29,00:00:42,0.48,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-%252B254724220009_20220131073102%25281693%2529.wav
+1/31/2022 10:26:11 AM,Lilian Hewa (116),,+254722427138,answered,00:00:08,00:05:54,00:06:02,5.90,Terminated by +254722427138,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-0722427138_20220131072619%25281686%2529.wav
+1/31/2022 10:31:49 AM,Janeffer Chege (123),,254729899344,answered,00:00:12,00:00:50,00:01:02,0.83,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254729899344_20220131073201%25281694%2529.wav
+1/31/2022 10:33:59 AM,+254720859210,,IVR (802),answered,00:00:01,00:00:15,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254720859210,,Q Customer Care #1 (800),answered,00:00:00,00:00:12,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,+254720859210,,Joseph Theuri (121),answered,00:00:12,00:00:29,00:01:09,0.00,Terminated by +254720859210,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A%252B254720859210%255D_%252B254720859210-121_20220131073427%25281695%2529.wav
+1/31/2022 10:34:28 AM,Janeffer Chege (123),,254722820917,answered,00:00:08,00:00:33,00:00:41,0.55,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254722820917_20220131073436%25281696%2529.wav
+1/31/2022 10:35:20 AM,Janeffer Chege (123),,254705297265,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 10:36:31 AM,+254722323487,,IVR (802),answered,00:00:00,00:00:04,00:00:04,0.00,Terminated by +254722323487,
+1/31/2022 10:36:16 AM,Janeffer Chege (123),,254728667987,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 10:36:21 AM,Lilian Hewa (116),,0793269254,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 10:36:53 AM,Janeffer Chege (123),,254704748410,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 10:37:02 AM,Lilian Hewa (116),,0793269254,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 10:37:29 AM,Janeffer Chege (123),,+254713465098,answered,00:00:20,00:00:27,00:00:47,0.45,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-713465098_20220131073749%25281703%2529.wav
+1/31/2022 10:37:43 AM,Lilian Hewa (116),,0793269254,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 10:38:20 AM,Janeffer Chege (123),,254718962129,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 10:38:15 AM,+254722323487,,IVR (802),answered,00:00:00,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722323487,,Q Customer Care #1 (800),unanswered,00:00:01,00:01:01,,,Terminated by +254722323487,
+1/31/2022 10:39:38 AM,Gladys Wamahiu (032),,+254722323487,answered,00:00:09,00:00:07,00:00:16,0.12,Terminated by +254722323487,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-%252B254722323487_20220131073947%25281709%2529.wav
+1/31/2022 10:39:35 AM,+254722323487,,IVR (802),answered,00:00:01,00:00:20,00:00:21,0.00,Terminated by +254722323487,
+1/31/2022 10:40:18 AM,+254708197871,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254708197871,
+1/31/2022 10:40:20 AM,+254708197871,,IVR (802),answered,00:00:00,00:00:30,00:00:30,0.00,Terminated by +254708197871,
+1/31/2022 10:38:59 AM,Janeffer Chege (123),,254722832272,answered,00:00:29,00:01:28,00:01:57,1.47,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254722832272_20220131073928%25281707%2529.wav
+1/31/2022 10:40:07 AM,Gladys Wamahiu (032),,+254722323487,answered,00:00:06,00:01:06,00:01:12,1.10,Terminated by +254722323487,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-%252B254722323487_20220131074013%25281710%2529.wav
+1/31/2022 10:41:05 AM,Janeffer Chege (123),,254711798637,answered,00:00:14,00:00:31,00:00:45,0.52,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254711798637_20220131074119%25281713%2529.wav
+1/31/2022 10:42:14 AM,Janeffer Chege (123),,254720542260,unanswered,00:00:04,00:00:00,00:00:04,0.00,Failed,
+1/31/2022 10:42:05 AM,Lilian Hewa (116),,0793269254,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 10:42:30 AM,Gladys Wamahiu (032),,Maureen Atieno (120),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (120)",
+,Gladys Wamahiu (032),,VMail (120),answered,00:00:01,00:00:03,00:00:24,0.00,Terminated by Gladys Wamahiu (032),
+1/31/2022 10:43:59 AM,Lilian Hewa (116),,0724580816,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 10:44:12 AM,Janeffer Chege (123),,254742496406,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 10:44:51 AM,Janeffer Chege (123),,254798128857,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 10:44:48 AM,Lilian Hewa (116),,0724580816,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 10:46:09 AM,+254753406416,,IVR (802),answered,00:00:00,00:00:04,00:00:04,0.00,Terminated by +254753406416,
+1/31/2022 10:46:08 AM,Janeffer Chege (123),,254717707567,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 10:46:50 AM,Janeffer Chege (123),,254723632075,answered,00:00:16,00:00:35,00:00:51,0.58,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254723632075_20220131074706%25281724%2529.wav
+1/31/2022 10:47:44 AM,Janeffer Chege (123),,254724862176,answered,00:00:11,00:00:39,00:00:50,0.65,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254724862176_20220131074755%25281725%2529.wav
+1/31/2022 10:48:38 AM,+254795848579,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254795848579,
+1/31/2022 10:48:45 AM,Janeffer Chege (123),,254758062624,answered,00:00:09,00:00:26,00:00:35,0.43,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254758062624_20220131074854%25281727%2529.wav
+1/31/2022 10:46:48 AM,Lilian Hewa (116),,+254724580516,answered,00:00:06,00:02:31,00:02:37,2.52,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-0724580516_20220131074654%25281723%2529.wav
+1/31/2022 10:49:45 AM,Janeffer Chege (123),,254728667987,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 10:50:35 AM,Janeffer Chege (123),,254722844819,answered,00:00:10,00:00:40,00:00:50,0.67,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254722844819_20220131075045%25281730%2529.wav
+1/31/2022 10:49:32 AM,Lilian Hewa (116),,+254722427138,answered,00:00:14,00:01:46,00:02:00,1.77,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254722427138_20220131074946%25281728%2529.wav
+1/31/2022 10:51:42 AM,Gladys Wamahiu (032),,Lilian Hewa (116),answered,00:00:04,00:00:18,00:00:22,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-116_20220131075146%25281733%2529.wav
+1/31/2022 10:51:30 AM,Janeffer Chege (123),,254743895470,unanswered,00:00:42,00:00:00,00:00:42,0.00,Failed,
+1/31/2022 10:52:10 AM,Gladys Wamahiu (032),,Lilian Hewa (116),answered,00:00:05,00:00:28,00:00:33,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-116_20220131075215%25281734%2529.wav
+1/31/2022 10:52:19 AM,Janeffer Chege (123),,254723615061,answered,00:00:06,00:00:33,00:00:39,0.55,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254723615061_20220131075225%25281735%2529.wav
+1/31/2022 10:53:01 AM,Janeffer Chege (123),,254715875957,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 10:53:43 AM,Janeffer Chege (123),,254713514808,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 10:53:13 AM,+254723997851,,IVR (802),answered,00:00:00,00:00:43,00:00:43,0.00,Terminated by +254723997851,
+1/31/2022 10:54:07 AM,Janeffer Chege (123),,254713514808,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 10:54:38 AM,Janeffer Chege (123),,254725843345,unanswered,00:00:00,00:00:00,00:00:00,0.00,Failed,
+1/31/2022 10:54:41 AM,Janeffer Chege (123),,254725843345,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 10:54:47 AM,Janeffer Chege (123),,254725843345,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 10:50:59 AM,Martha Njoroge (021),,254708696190,answered,00:00:12,00:04:34,00:04:46,4.57,Terminated by 254708696190,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254708696190_20220131075111%25281731%2529.wav
+1/31/2022 10:56:11 AM,Janeffer Chege (123),,254717281555,answered,00:00:19,00:00:36,00:00:55,0.60,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254717281555_20220131075630%25281744%2529.wav
+1/31/2022 10:52:59 AM,Lilian Hewa (116),,+254724580516,answered,00:00:06,00:04:26,00:04:32,4.43,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254724580516_20220131075305%25281736%2529.wav
+1/31/2022 10:57:23 AM,Martha Njoroge (021),,254708696190,answered,00:00:06,00:00:30,00:00:36,0.50,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254708696190_20220131075729%25281746%2529.wav
+1/31/2022 10:57:47 AM,Lilian Hewa (116),,+254722427138,answered,00:00:06,00:00:39,00:00:45,0.65,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254722427138_20220131075753%25281747%2529.wav
+1/31/2022 10:57:18 AM,Janeffer Chege (123),,254720875924,answered,00:00:22,00:00:55,00:01:17,0.92,Terminated by 254720875924,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254720875924_20220131075740%25281745%2529.wav
+1/31/2022 11:00:35 AM,Lilian Hewa (116),,0793269254,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 11:01:30 AM,Lilian Hewa (116),,+254793269255,answered,00:00:08,00:01:49,00:01:57,1.82,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-0793269255_20220131080138%25281750%2529.wav
+1/31/2022 11:01:21 AM,Martha Njoroge (021),,254718118168,answered,00:00:08,00:03:04,00:03:12,3.07,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254718118168_20220131080129%25281749%2529.wav
+1/31/2022 11:04:29 AM,Lilian Hewa (116),,+254793269255,answered,00:00:06,00:00:20,00:00:26,0.33,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254793269255_20220131080435%25281752%2529.wav
+1/31/2022 11:03:12 AM,+254722349670,,IVR (802),answered,00:00:01,00:00:09,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722349670,,Q Customer Care #1 (800),answered,00:00:01,00:00:10,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254722349670,,Gladys Wamahiu (032),answered,00:00:10,00:01:36,00:02:07,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254722349670%255D_%252B254722349670-032_20220131080333%25281751%2529.wav
+1/31/2022 11:05:12 AM,Gladys Wamahiu (032),,Maureen Atieno (120),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (120)",
+,Gladys Wamahiu (032),,VMail (120),answered,00:00:00,00:00:04,00:00:24,0.00,Terminated by Gladys Wamahiu (032),
+1/31/2022 11:05:48 AM,Lilian Hewa (116),,Gladys Wamahiu (032),answered,00:00:04,00:00:09,00:00:13,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-032_20220131080552%25281754%2529.wav
+1/31/2022 11:09:03 AM,+254725843345,,IVR (802),answered,00:00:01,00:00:10,00:00:11,0.00,Terminated by +254725843345,
+1/31/2022 11:16:31 AM,+254726750369,,IVR (802),answered,00:00:01,00:00:13,00:00:14,0.00,Terminated by +254726750369,
+1/31/2022 11:16:19 AM,Lilian Hewa (116),,254722645398,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 11:16:42 AM,Janeffer Chege (123),,254707126436,answered,00:00:20,00:00:34,00:00:54,0.57,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254707126436_20220131081702%25281758%2529.wav
+1/31/2022 11:17:42 AM,+254704606733,,IVR (802),answered,00:00:00,00:00:14,00:00:14,0.00,Terminated by +254704606733,
+1/31/2022 11:18:01 AM,+254704606733,,IVR (802),answered,00:00:01,00:00:12,00:00:13,0.00,Terminated by +254704606733,
+1/31/2022 11:17:51 AM,Janeffer Chege (123),,+254716540529,answered,00:00:15,00:00:34,00:00:49,0.57,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-716540529_20220131081806%25281760%2529.wav
+1/31/2022 11:18:24 AM,+254704606733,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254704606733,,Q Clinical Care #2 (801),answered,00:00:00,00:00:06,,,Q Clinical Care #2 (801) replaced by Lilian Hewa (116),
+,+254704606733,,Lilian Hewa (116),answered,00:00:05,00:01:02,00:01:26,0.00,Terminated by +254704606733,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BClinical%2520Care%2520%25232%25253A%252B254704606733%255D_%252B254704606733-116_20220131081843%25281762%2529.wav
+1/31/2022 11:18:43 AM,Maureen Atieno (120),,Gladys Wamahiu (032),answered,00:00:17,00:00:54,00:01:11,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-032_20220131081900%25281763%2529.wav
+1/31/2022 11:19:52 AM,Lilian Hewa (116),,+254704606733,answered,00:00:07,00:00:33,00:00:40,0.55,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254704606733_20220131081959%25281765%2529.wav
+1/31/2022 11:18:50 AM,Janeffer Chege (123),,254726346061,answered,00:00:13,00:01:58,00:02:11,1.97,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254726346061_20220131081903%25281764%2529.wav
+1/31/2022 11:21:07 AM,Janeffer Chege (123),,254742719939,answered,00:00:11,00:00:29,00:00:40,0.48,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254742719939_20220131082118%25281766%2529.wav
+1/31/2022 11:21:37 AM,+254712120838,,IVR (802),answered,00:00:01,00:00:22,00:00:23,0.00,Terminated by +254712120838,
+1/31/2022 11:21:54 AM,Janeffer Chege (123),,721607442,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 11:22:54 AM,Janeffer Chege (123),,702680289,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 11:22:47 AM,Lilian Hewa (116),,254714790539,answered,00:00:21,00:00:54,00:01:15,0.90,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254714790539_20220131082308%25281769%2529.wav
+1/31/2022 11:23:00 AM,+254712120838,,IVR (802),answered,00:00:01,00:00:13,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254712120838,,Q Clinical Care #2 (801),answered,00:00:00,00:00:14,,,Q Clinical Care #2 (801) replaced by Eunitor Owour (124),
+,+254712120838,,Eunitor Owour (124),answered,00:00:13,00:01:09,00:01:50,0.00,Terminated by +254712120838,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BClinical%2520Care%2520%25232%25253A%252B254712120838%255D_%252B254712120838-124_20220131082328%25281771%2529.wav
+1/31/2022 11:23:44 AM,+254717770111,,IVR (802),answered,00:00:01,00:00:19,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254717770111,,Q Customer Care #1 (800),answered,00:00:01,00:00:09,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254717770111,,Lucy Muchene (119),answered,00:00:09,00:00:42,00:01:21,0.00,Terminated by +254717770111,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254717770111%255D_%252B254717770111-119_20220131082414%25281772%2529.wav
+1/31/2022 11:23:49 AM,Janeffer Chege (123),,254722490004,answered,00:00:14,00:01:05,00:01:19,1.08,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254722490004_20220131082403%25281773%2529.wav
+1/31/2022 11:26:03 AM,+254703932269,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254703932269,,Q Customer Care #1 (800),answered,00:00:01,00:00:19,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254703932269,,Gladys Wamahiu (032),answered,00:00:19,00:00:35,00:01:26,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254703932269%255D_%252B254703932269-032_20220131082635%25281775%2529.wav
+1/31/2022 11:25:39 AM,+254745099484,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254745099484,,Q Customer Care #1 (800),answered,00:00:00,00:00:34,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254745099484,,Lucy Muchene (119),answered,00:00:03,00:01:42,00:02:31,0.00,Terminated by +254745099484,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254745099484%255D_%252B254745099484-119_20220131082625%25281774%2529.wav
+1/31/2022 11:27:49 AM,Lilian Hewa (116),,254724521093,answered,00:00:13,00:00:28,00:00:41,0.47,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254724521093_20220131082802%25281776%2529.wav
+1/31/2022 11:28:44 AM,Lucy Muchene (119),,745099484,unanswered,00:00:14,00:00:00,00:00:14,0.00,Failed,
+1/31/2022 11:28:45 AM,Lilian Hewa (116),,254722948319,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 11:29:02 AM,+254716735547,,IVR (802),answered,00:00:00,00:00:17,00:00:17,0.00,Terminated by +254716735547,
+1/31/2022 11:29:04 AM,Janeffer Chege (123),,254722832272,unanswered,00:00:15,00:00:00,00:00:15,0.00,Failed,
+1/31/2022 11:29:28 AM,Maureen Atieno (120),,Stellah Wambui (004),answered,00:00:11,00:00:00,,,Picked up by Stellah Wambui (004),
+,Maureen Atieno (120),,Stellah Wambui (004),answered,00:00:00,00:00:56,00:01:07,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/004%252F%255BStellah%2520Wambui%255D_004-120_20220131082939%25281782%2529.wav
+1/31/2022 11:30:39 AM,+254702680289,,IVR (802),answered,00:00:00,00:00:20,00:00:20,0.00,Terminated by +254702680289,
+1/31/2022 11:33:32 AM,254722832272,,IVR (802),answered,00:00:00,00:00:08,00:00:08,0.00,Terminated by 254722832272,
+1/31/2022 11:32:47 AM,Lilian Hewa (116),,254725465683,answered,00:00:27,00:00:33,00:01:00,0.55,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254725465683_20220131083314%25281785%2529.wav
+1/31/2022 11:30:14 AM,Janeffer Chege (123),,254745914848,answered,00:00:18,00:03:59,00:04:17,3.98,Terminated by 254745914848,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254745914848_20220131083032%25281783%2529.wav
+1/31/2022 11:35:01 AM,Janeffer Chege (123),,254714102649,unanswered,00:00:16,00:00:00,00:00:16,0.00,Failed,
+1/31/2022 11:34:47 AM,Lilian Hewa (116),,254704654201,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 11:33:06 AM,+254712236373,,IVR (802),answered,00:00:00,00:00:17,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254712236373,,Q Customer Care #1 (800),answered,00:00:00,00:00:43,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254712236373,,Maureen Atieno (120),answered,00:00:12,00:00:00,,,Picked up by Maureen Atieno (120),
+,+254712236373,,Maureen Atieno (120),answered,00:00:00,00:01:15,00:02:27,0.00,Terminated by +254712236373,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-%252B254712236373_20220131083405%25281788%2529.wav
+1/31/2022 11:35:26 AM,Janeffer Chege (123),,254712605969,unanswered,00:00:18,00:00:00,00:00:18,0.00,Failed,
+1/31/2022 11:35:26 AM,Lilian Hewa (116),,254700837744,unanswered,00:00:21,00:00:00,00:00:21,0.00,Failed,
+1/31/2022 11:37:31 AM,Janeffer Chege (123),,254712122721,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 11:38:09 AM,Janeffer Chege (123),,254712174005,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 11:38:46 AM,Janeffer Chege (123),,254708650590,unanswered,00:00:08,00:00:00,00:00:08,0.00,Failed,
+1/31/2022 11:39:12 AM,Lilian Hewa (116),,724580516,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 11:38:30 AM,+254704140003,,IVR (802),answered,00:00:00,00:00:16,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254704140003,,Q Clinical Care #2 (801),answered,00:00:00,00:00:05,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,+254704140003,,Martha Njoroge (021),answered,00:00:04,00:00:29,00:00:54,0.00,Terminated by +254704140003,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A%252B254704140003%255D_%252B254704140003-021_20220131083851%25281795%2529.wav
+1/31/2022 11:40:05 AM,Lilian Hewa (116),,724580516,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 11:39:37 AM,Janeffer Chege (123),,254712268504,answered,00:00:23,00:00:29,00:00:52,0.48,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254712268504_20220131084000%25281798%2529.wav
+1/31/2022 11:40:29 AM,+254722247245,,IVR (802),unanswered,00:00:00,00:00:00,00:00:00,0.00,Failed Canceled,
+1/31/2022 11:41:15 AM,Maureen Atieno (120),,James Muraya (022),unanswered,00:00:00,00:00:00,,,Forwarded to VMail (022),
+,Maureen Atieno (120),,VMail (022),answered,00:00:00,00:00:08,00:00:08,0.00,Terminated by Maureen Atieno (120),
+1/31/2022 11:40:10 AM,Martha Njoroge (021),,+254704140003,answered,00:00:06,00:01:11,00:01:17,1.18,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-%252B254704140003_20220131084016%25281800%2529.wav
+1/31/2022 11:41:51 AM,Janeffer Chege (123),,254718365922,answered,00:00:10,00:00:01,00:00:11,0.02,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254718365922_20220131084201%25281803%2529.wav
+1/31/2022 11:42:19 AM,Lilian Hewa (116),,724580516,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 11:42:08 AM,Janeffer Chege (123),,254718365922,answered,00:00:21,00:00:10,00:00:31,0.17,Terminated by 254718365922,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254718365922_20220131084229%25281804%2529.wav
+1/31/2022 11:42:41 AM,+254724580516,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254724580516,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:05,,,Terminated by +254724580516,
+1/31/2022 11:43:45 AM,+254718365922,,IVR (802),answered,00:00:01,00:00:08,00:00:09,0.00,Terminated by +254718365922,
+1/31/2022 11:44:04 AM,0204291165,,IVR (802),answered,00:00:01,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,0204291165,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:00,00:00:15,0.00,Terminated by Q Customer Care #1 (800),
+1/31/2022 11:44:06 AM,Lilian Hewa (116),,+254704140003,answered,00:00:08,00:00:47,00:00:55,0.78,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-704140003_20220131084414%25281809%2529.wav
+1/31/2022 11:45:06 AM,Lilian Hewa (116),,724580516,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 11:44:20 AM,+254724580516,,IVR (802),answered,00:00:00,00:00:25,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254724580516,,Q Clinical Care #2 (801),answered,00:00:01,00:00:11,,,Q Clinical Care #2 (801) replaced by Janeffer Chege (123),
+,+254724580516,,Janeffer Chege (123),answered,00:00:11,00:00:58,00:01:46,0.00,Terminated by +254724580516,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BClinical%2520Care%2520%25232%25253A%252B254724580516%255D_%252B254724580516-123_20220131084457%25281810%2529.wav
+1/31/2022 11:44:34 AM,+254722344761,,IVR (802),answered,00:00:00,00:00:17,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254722344761,,Q Customer Care #1 (800),answered,00:00:00,00:00:14,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254722344761,,Lucy Muchene (119),answered,00:00:13,00:02:29,00:03:13,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254722344761%255D_%252B254722344761-119_20220131084505%25281811%2529.wav
+1/31/2022 11:47:31 AM,Lilian Hewa (116),,+254724580516,answered,00:00:06,00:00:22,00:00:28,0.37,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254724580516_20220131084738%25281814%2529.wav
+1/31/2022 11:45:26 AM,0204291165,,IVR (802),answered,00:00:01,00:00:15,,,IVR (802) replaced by Q Customer Care #1 (800),
+,0204291165,,Q Customer Care #1 (800),answered,00:00:00,00:00:12,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,0204291165,,Joseph Theuri (121),answered,00:00:12,00:02:09,00:02:49,0.00,Terminated by 0204291165,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A0204291165%255D_0204291165-121_20220131084554%25281813%2529.wav
+1/31/2022 11:49:16 AM,Lilian Hewa (116),,+254703061000,answered,00:00:02,00:00:56,00:00:58,0.93,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-0703061000_20220131084918%25281815%2529.wav
+1/31/2022 11:53:01 AM,Martha Njoroge (021),,254745155118,answered,00:00:05,00:00:15,00:00:20,0.25,Terminated by 254745155118,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254745155118_20220131085306%25281816%2529.wav
+1/31/2022 11:53:37 AM,Martha Njoroge (021),,254745155118,answered,00:00:04,00:01:18,00:01:22,1.30,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254745155118_20220131085341%25281817%2529.wav
+1/31/2022 11:59:09 AM,Gladys Wamahiu (032),,254715439196,unanswered,00:00:21,00:00:00,00:00:21,0.00,Failed,
+1/31/2022 11:59:44 AM,Gladys Wamahiu (032),,254715439196,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 12:00:47 PM,Martha Njoroge (021),,254745508477,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:01:27 PM,Lilian Hewa (116),,+254722427138,answered,00:00:09,00:00:39,00:00:48,0.65,Terminated by +254722427138,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254722427138_20220131090136%25281823%2529.wav
+1/31/2022 12:00:33 PM,+254751067671,,IVR (802),answered,00:00:00,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254751067671,,Q Customer Care #1 (800),answered,00:00:00,00:00:30,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254751067671,,Maureen Atieno (120),answered,00:00:30,00:00:00,,,Picked up by Maureen Atieno (120),
+,+254751067671,,Maureen Atieno (120),answered,00:00:00,00:00:29,00:01:43,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-%252B254751067671_20220131090117%25281822%2529.wav
+1/31/2022 12:02:43 PM,+254782166418,,IVR (802),answered,00:00:00,00:00:11,00:00:11,0.00,Terminated by +254782166418,
+1/31/2022 12:01:57 PM,+254751067671,,IVR (802),answered,00:00:00,00:00:44,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254751067671,,Q Customer Care #1 (800),answered,00:00:00,00:00:10,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254751067671,,Gladys Wamahiu (032),answered,00:00:10,00:00:42,00:01:46,0.00,Terminated by +254751067671,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254751067671%255D_%252B254751067671-032_20220131090251%25281824%2529.wav
+1/31/2022 12:04:38 PM,Martha Njoroge (021),,254717708606,answered,00:00:15,00:00:57,00:01:12,0.95,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254717708606_20220131090453%25281826%2529.wav
+1/31/2022 12:06:03 PM,Lilian Hewa (116),,254743039712,answered,00:00:09,00:00:23,00:00:32,0.38,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254743039712_20220131090612%25281828%2529.wav
+1/31/2022 12:05:10 PM,+254705890115,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254705890115,,Q Customer Care #1 (800),answered,00:00:00,00:00:20,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254705890115,,Lucy Muchene (119),answered,00:00:20,00:01:10,00:02:03,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254705890115%255D_%252B254705890115-119_20220131090543%25281827%2529.wav
+1/31/2022 12:08:04 PM,Lilian Hewa (116),,254795288133,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 12:07:36 PM,Martha Njoroge (021),,254721642064,answered,00:00:27,00:00:19,00:00:46,0.32,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254721642064_20220131090803%25281829%2529.wav
+1/31/2022 12:08:25 PM,Martha Njoroge (021),,254729024092,answered,00:00:31,00:00:27,00:00:58,0.45,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254729024092_20220131090856%25281831%2529.wav
+1/31/2022 12:09:12 PM,Lilian Hewa (116),,254790550705,answered,00:00:22,00:00:35,00:00:57,0.58,Terminated by 254790550705,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254790550705_20220131090934%25281832%2529.wav
+1/31/2022 12:11:10 PM,Martha Njoroge (021),,254704758114,answered,00:00:14,00:00:08,00:00:22,0.13,Terminated by 254704758114,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254704758114_20220131091124%25281833%2529.wav
+1/31/2022 12:12:09 PM,Lilian Hewa (116),,254790550705,answered,00:00:18,00:00:15,00:00:33,0.25,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254790550705_20220131091227%25281834%2529.wav
+1/31/2022 12:12:31 PM,Martha Njoroge (021),,254720355694,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:13:14 PM,Martha Njoroge (021),,254712074316,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 12:12:48 PM,Lilian Hewa (116),,254716716721,answered,00:00:19,00:01:21,00:01:40,1.35,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254716716721_20220131091307%25281836%2529.wav
+1/31/2022 12:14:38 PM,Lilian Hewa (116),,254710213642,answered,00:00:10,00:00:56,00:01:06,0.93,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254710213642_20220131091448%25281838%2529.wav
+1/31/2022 12:17:14 PM,Lilian Hewa (116),,254710419159,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 12:18:42 PM,+254712122721,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254712122721,
+1/31/2022 12:18:43 PM,+254712122721,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254712122721,
+1/31/2022 12:18:23 PM,Lilian Hewa (116),,254740836396,answered,00:00:09,00:00:49,00:00:58,0.82,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254740836396_20220131091832%25281840%2529.wav
+1/31/2022 12:18:57 PM,Martha Njoroge (021),,254723816542,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 12:19:41 PM,Martha Njoroge (021),,254792274629,answered,00:00:25,00:00:32,00:00:57,0.53,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254792274629_20220131092006%25281844%2529.wav
+1/31/2022 12:21:17 PM,+254721684225,,IVR (802),answered,00:00:00,00:00:18,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254721684225,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:09,,,Terminated by +254721684225,
+1/31/2022 12:19:44 PM,Lilian Hewa (116),,254742062883,answered,00:00:13,00:01:54,00:02:07,1.90,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254742062883_20220131091957%25281845%2529.wav
+1/31/2022 12:20:27 PM,+254704140003,,IVR (802),answered,00:00:00,00:00:10,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254704140003,,Q Clinical Care #2 (801),answered,00:00:01,00:00:11,,,Q Clinical Care #2 (801) replaced by Eunitor Owour (124),
+,+254704140003,,Eunitor Owour (124),answered,00:00:11,00:01:12,00:01:45,0.00,Terminated by +254704140003,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BClinical%2520Care%2520%25232%25253A%252B254704140003%255D_%252B254704140003-124_20220131092049%25281846%2529.wav
+1/31/2022 12:23:50 PM,+254707817586,,IVR (802),answered,00:00:01,00:00:08,00:00:09,0.00,Terminated by +254707817586,
+1/31/2022 12:23:39 PM,Lilian Hewa (116),,254707977207,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:24:11 PM,Maureen Atieno (120),,Lucy Muchene (119),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (119)",
+,Maureen Atieno (120),,VMail (119),answered,00:00:00,00:00:04,00:00:24,0.00,Terminated by Maureen Atieno (120),
+1/31/2022 12:24:09 PM,Martha Njoroge (021),,254708195979,answered,00:00:14,00:00:37,00:00:51,0.62,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254708195979_20220131092423%25281851%2529.wav
+1/31/2022 12:24:07 PM,+254710444331,,IVR (802),answered,00:00:00,00:00:39,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254710444331,,Q Customer Care #1 (800),answered,00:00:01,00:00:14,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254710444331,,Maureen Atieno (120),answered,00:00:13,00:00:58,00:02:05,0.00,Terminated by +254710444331,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254710444331%255D_%252B254710444331-120_20220131092501%25281850%2529.wav
+1/31/2022 12:27:09 PM,Martha Njoroge (021),,254724977543,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:27:49 PM,Martha Njoroge (021),,254710208433,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:28:35 PM,Martha Njoroge (021),,254728815938,unanswered,00:00:23,00:00:00,00:00:23,0.00,Failed,
+1/31/2022 12:27:08 PM,+254710444331,,IVR (802),answered,00:00:01,00:00:08,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254710444331,,Q Customer Care #1 (800),answered,00:00:01,00:00:29,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254710444331,,Lucy Muchene (119),answered,00:00:11,00:01:48,00:02:38,0.00,Terminated by +254710444331,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254710444331%255D_%252B254710444331-119_20220131092747%25281853%2529.wav
+1/31/2022 12:29:10 PM,Martha Njoroge (021),,254724280825,unanswered,00:00:54,00:00:00,00:00:54,0.00,Failed,
+1/31/2022 12:30:15 PM,Martha Njoroge (021),,254725404606,answered,00:00:20,00:01:12,00:01:32,1.20,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254725404606_20220131093035%25281858%2529.wav
+1/31/2022 12:32:40 PM,Lilian Hewa (116),,254725963350,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:33:24 PM,Martha Njoroge (021),,254790993780,answered,00:00:09,00:00:22,00:00:31,0.37,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254790993780_20220131093333%25281860%2529.wav
+1/31/2022 12:33:58 PM,Martha Njoroge (021),,254797891734,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 12:34:04 PM,Lilian Hewa (116),,254713598176,unanswered,00:01:03,00:00:00,00:01:03,0.00,Failed,
+1/31/2022 12:34:58 PM,Martha Njoroge (021),,254727845117,unanswered,00:00:40,00:00:00,00:00:40,0.00,Failed,
+1/31/2022 12:35:46 PM,Janeffer Chege (123),,254710247313,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 12:36:09 PM,+254797891734,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254797891734,
+1/31/2022 12:36:10 PM,+254797891734,,IVR (802),answered,00:00:00,00:00:31,00:00:31,0.00,Terminated by +254797891734,
+1/31/2022 12:35:49 PM,Martha Njoroge (021),,254722565999,answered,00:00:20,00:00:54,00:01:14,0.90,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254722565999_20220131093609%25281866%2529.wav
+1/31/2022 12:35:48 PM,+254724113770,,IVR (802),answered,00:00:01,00:00:28,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254724113770,,Q Customer Care #1 (800),answered,00:00:00,00:00:12,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,+254724113770,,Joseph Theuri (121),answered,00:00:12,00:00:58,00:01:51,0.00,Terminated by +254724113770,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A%252B254724113770%255D_%252B254724113770-121_20220131093629%25281865%2529.wav
+1/31/2022 12:37:17 PM,+254797891734,,IVR (802),answered,00:00:01,00:00:11,00:00:12,0.00,Terminated by +254797891734,
+1/31/2022 12:36:25 PM,+254704140003,,IVR (802),answered,00:00:00,00:00:32,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254704140003,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:44,,,Terminated by +254704140003,
+1/31/2022 12:36:22 PM,Janeffer Chege (123),,254112512401,answered,00:00:12,00:01:21,00:01:33,1.35,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254112512401_20220131093634%25281869%2529.wav
+1/31/2022 12:37:08 PM,Martha Njoroge (021),,254722306689,answered,00:00:12,00:00:37,00:00:49,0.62,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254722306689_20220131093720%25281871%2529.wav
+1/31/2022 12:37:14 PM,Lilian Hewa (116),,+254793483994,answered,00:00:08,00:04:39,00:04:47,4.65,Terminated by +254793483994,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-0793483994_20220131093722%25281872%2529.wav
+1/31/2022 12:41:41 PM,+254751048884,,IVR (802),answered,00:00:00,00:00:40,00:00:40,0.00,Terminated by +254751048884,
+1/31/2022 12:41:35 PM,Janeffer Chege (123),,254715924304,answered,00:00:14,00:00:39,00:00:53,0.65,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254715924304_20220131094149%25281874%2529.wav
+1/31/2022 12:44:10 PM,+254756389446,,IVR (802),answered,00:00:01,00:00:08,00:00:09,0.00,Terminated by +254756389446,
+1/31/2022 12:44:27 PM,Lilian Hewa (116),,254710868692,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 12:42:31 PM,Janeffer Chege (123),,254717998980,answered,00:00:22,00:01:45,00:02:07,1.75,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254717998980_20220131094253%25281876%2529.wav
+1/31/2022 12:44:43 PM,Lilian Hewa (116),,254710868692,unanswered,00:00:04,00:00:00,00:00:04,0.00,Failed,
+1/31/2022 12:44:18 PM,254745665459,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254745665459,,Q Customer Care #1 (800),answered,00:00:00,00:00:13,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,254745665459,,Lucy Muchene (119),answered,00:00:12,00:00:52,00:01:30,0.00,Terminated by 254745665459,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A254745665459%255D_254745665459-119_20220131094444%25281878%2529.wav
+1/31/2022 12:45:11 PM,Lilian Hewa (116),,254786333322,answered,00:00:11,00:00:33,00:00:44,0.55,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254786333322_20220131094522%25281881%2529.wav
+1/31/2022 12:45:44 PM,Lucy Muchene (119),,254745665459,answered,00:00:12,00:01:03,00:01:15,1.05,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-254745665459_20220131094556%25281882%2529.wav
+1/31/2022 12:46:47 PM,Lilian Hewa (116),,254768249840,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 12:48:09 PM,+254115535900,,IVR (802),answered,00:00:00,00:00:15,00:00:15,0.00,Terminated by +254115535900,
+1/31/2022 12:45:50 PM,Martha Njoroge (021),,254703544207,answered,00:00:18,00:02:32,00:02:50,2.53,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254703544207_20220131094608%25281883%2529.wav
+1/31/2022 12:48:19 PM,Lilian Hewa (116),,254715215135,answered,00:00:16,00:00:24,00:00:40,0.40,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254715215135_20220131094835%25281886%2529.wav
+1/31/2022 12:49:19 PM,Lilian Hewa (116),,254768452323,unanswered,00:00:00,00:00:00,00:00:00,0.00,Failed,
+1/31/2022 12:52:07 PM,Eunitor Owour (124),,254728242042,unanswered,00:00:20,00:00:00,00:00:20,0.00,Failed,
+1/31/2022 12:52:09 PM,Lilian Hewa (116),,254708064640,answered,00:00:18,00:00:26,00:00:44,0.43,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254708064640_20220131095227%25281890%2529.wav
+1/31/2022 12:53:03 PM,Joseph Theuri (121),,0715584554,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:54:33 PM,+254725963350,,IVR (802),answered,00:00:00,00:00:09,00:00:09,0.00,Terminated by +254725963350,
+1/31/2022 12:52:57 PM,Lilian Hewa (116),,254714930153,answered,00:00:28,00:01:18,00:01:46,1.30,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254714930153_20220131095325%25281891%2529.wav
+1/31/2022 12:54:49 PM,Gladys Wamahiu (032),,+254718050387,answered,00:00:12,00:00:14,00:00:26,0.23,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-718050387_20220131095501%25281894%2529.wav
+1/31/2022 12:55:21 PM,Gladys Wamahiu (032),,+254718050387,answered,00:00:07,00:00:11,00:00:18,0.18,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-718050387_20220131095528%25281896%2529.wav
+1/31/2022 12:54:57 PM,Lilian Hewa (116),,254768156279,answered,00:00:33,00:00:34,00:01:07,0.57,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254768156279_20220131095530%25281895%2529.wav
+1/31/2022 12:55:25 PM,Joseph Theuri (121),,+254715584554,answered,00:00:06,00:00:46,00:00:52,0.77,Terminated by +254715584554,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-0715584554_20220131095531%25281897%2529.wav
+1/31/2022 12:56:17 PM,Gladys Wamahiu (032),,+254718050387,answered,00:00:16,00:00:10,00:00:26,0.17,Terminated by +254718050387,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-718050387_20220131095633%25281899%2529.wav
+1/31/2022 12:56:13 PM,Lilian Hewa (116),,254702048643,answered,00:00:16,00:00:25,00:00:41,0.42,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254702048643_20220131095629%25281898%2529.wav
+1/31/2022 12:56:34 PM,Joseph Theuri (121),,Lucy Muchene (119),answered,00:00:12,00:00:21,00:00:33,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-119_20220131095646%25281900%2529.wav
+1/31/2022 12:56:48 PM,Gladys Wamahiu (032),,+254718050387,answered,00:00:08,00:00:28,00:00:36,0.47,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-718050387_20220131095656%25281901%2529.wav
+1/31/2022 12:57:06 PM,Lilian Hewa (116),,254745934368,answered,00:00:09,00:00:27,00:00:36,0.45,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254745934368_20220131095715%25281902%2529.wav
+1/31/2022 12:57:55 PM,Lilian Hewa (116),,254734733562,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 12:51:27 PM,Martha Njoroge (021),,254703544207,answered,00:00:26,00:11:24,00:11:50,11.40,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254703544207_20220131095153%25281888%2529.wav
+1/31/2022 1:02:36 PM,Lilian Hewa (116),,254791341337,answered,00:00:22,00:00:38,00:01:00,0.63,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254791341337_20220131100258%25281904%2529.wav
+1/31/2022 1:03:44 PM,Lilian Hewa (116),,254724813906,answered,00:00:09,00:00:40,00:00:49,0.67,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254724813906_20220131100353%25281905%2529.wav
+1/31/2022 1:04:26 PM,Eunitor Owour (124),,254716000420,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 1:05:05 PM,Lilian Hewa (116),,254721293787,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 1:05:25 PM,Eunitor Owour (124),,254796025988,unanswered,00:00:12,00:00:00,00:00:12,0.00,Failed,
+1/31/2022 1:07:40 PM,Eunitor Owour (124),,254713126918,unanswered,00:00:10,00:00:00,00:00:10,0.00,Failed,
+1/31/2022 1:08:55 PM,Janeffer Chege (123),,254723174569,answered,00:00:18,00:00:09,00:00:27,0.15,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254723174569_20220131100913%25281912%2529.wav
+1/31/2022 1:08:40 PM,Eunitor Owour (124),,254721552585,answered,00:00:18,00:01:33,00:01:51,1.55,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254721552585_20220131100858%25281910%2529.wav
+1/31/2022 1:10:39 PM,Eunitor Owour (124),,254708944923,answered,00:00:17,00:00:39,00:00:56,0.65,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254708944923_20220131101056%25281913%2529.wav
+1/31/2022 1:08:43 PM,Lilian Hewa (116),,254796205856,answered,00:00:17,00:03:03,00:03:20,3.05,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254796205856_20220131100900%25281911%2529.wav
+1/31/2022 1:12:29 PM,+254726702396,,IVR (802),answered,00:00:00,00:00:19,00:00:19,0.00,Terminated by +254726702396,
+1/31/2022 1:11:57 PM,Eunitor Owour (124),,254713257233,answered,00:00:15,00:00:45,00:01:00,0.75,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254713257233_20220131101212%25281914%2529.wav
+1/31/2022 1:12:33 PM,Janeffer Chege (123),,254725005940,answered,00:00:13,00:00:15,00:00:28,0.25,Terminated by 254725005940,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254725005940_20220131101246%25281916%2529.wav
+1/31/2022 1:13:16 PM,Janeffer Chege (123),,+254712646193,answered,00:00:08,00:00:07,00:00:15,0.12,Terminated by +254712646193,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0712646193_20220131101324%25281919%2529.wav
+1/31/2022 1:12:50 PM,Lilian Hewa (116),,254741436534,answered,00:00:27,00:01:06,00:01:33,1.10,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254741436534_20220131101317%25281917%2529.wav
+1/31/2022 1:15:28 PM,Lilian Hewa (116),,254723846745,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 1:15:16 PM,Janeffer Chege (123),,+254700897635,answered,00:00:11,00:00:45,00:00:56,0.75,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-700897635_20220131101527%25281920%2529.wav
+1/31/2022 1:16:07 PM,Lilian Hewa (116),,254724533657,unanswered,00:00:10,00:00:00,00:00:10,0.00,Failed,
+1/31/2022 1:12:55 PM,+254726702396,,IVR (802),answered,00:00:00,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254726702396,,Q Customer Care #1 (800),answered,00:00:00,00:00:41,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254726702396,,Maureen Atieno (120),unanswered,00:00:30,00:00:00,,,Failed,
+,+254726702396,,Gladys Wamahiu (032),answered,00:00:11,00:03:04,00:04:37,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254726702396%255D_%252B254726702396-032_20220131101347%25281918%2529.wav
+1/31/2022 1:16:23 PM,Janeffer Chege (123),,254717195497,answered,00:00:21,00:00:29,00:00:50,0.48,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254717195497_20220131101644%25281923%2529.wav
+1/31/2022 1:16:45 PM,Eunitor Owour (124),,254705875581,unanswered,00:00:36,00:00:00,00:00:36,0.00,Failed,
+1/31/2022 1:16:50 PM,Lilian Hewa (116),,254722388244,answered,00:00:06,00:00:51,00:00:57,0.85,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254722388244_20220131101656%25281925%2529.wav
+1/31/2022 1:17:56 PM,Janeffer Chege (123),,254792890532,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 1:18:49 PM,Lilian Hewa (116),,254708806469,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 1:19:38 PM,Lilian Hewa (116),,254721233005,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 1:21:24 PM,Janeffer Chege (123),,254707546792,answered,00:00:09,00:00:30,00:00:39,0.50,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254707546792_20220131102133%25281930%2529.wav
+1/31/2022 1:20:48 PM,Martha Njoroge (021),,254703544207,answered,00:00:06,00:01:12,00:01:18,1.20,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254703544207_20220131102054%25281929%2529.wav
+1/31/2022 1:21:46 PM,Eunitor Owour (124),,254724215084,answered,00:00:09,00:00:45,00:00:54,0.75,Terminated by 254724215084,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254724215084_20220131102155%25281931%2529.wav
+1/31/2022 1:22:45 PM,Eunitor Owour (124),,254720755021,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 1:22:21 PM,Janeffer Chege (123),,254726011673,answered,00:00:15,00:00:43,00:00:58,0.72,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254726011673_20220131102236%25281932%2529.wav
+1/31/2022 1:23:27 PM,Janeffer Chege (123),,254781072756,answered,00:00:19,00:00:33,00:00:52,0.55,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254781072756_20220131102346%25281935%2529.wav
+1/31/2022 1:23:33 PM,Lilian Hewa (116),,254714828355,answered,00:00:22,00:00:28,00:00:50,0.47,Terminated by 254714828355,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254714828355_20220131102355%25281936%2529.wav
+1/31/2022 1:24:37 PM,Lilian Hewa (116),,254715647750,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 1:23:22 PM,Martha Njoroge (021),,254715252692,answered,00:00:24,00:00:56,00:01:20,0.93,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254715252692_20220131102346%25281934%2529.wav
+1/31/2022 1:24:43 PM,Eunitor Owour (124),,254721477402,unanswered,00:00:04,00:00:00,00:00:04,0.00,Failed,
+1/31/2022 1:24:41 PM,Janeffer Chege (123),,781072756,unanswered,00:00:30,00:00:00,00:00:30,0.00,Failed,
+1/31/2022 1:24:45 PM,Martha Njoroge (021),,254728086731,answered,00:00:18,00:00:31,00:00:49,0.52,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254728086731_20220131102503%25281940%2529.wav
+1/31/2022 1:25:18 PM,Eunitor Owour (124),,254703742282,answered,00:00:16,00:00:30,00:00:46,0.50,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254703742282_20220131102534%25281943%2529.wav
+1/31/2022 1:25:13 PM,Lilian Hewa (116),,254726156120,answered,00:00:25,00:00:30,00:00:55,0.50,Terminated by 254726156120,https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254726156120_20220131102538%25281942%2529.wav
+1/31/2022 1:26:13 PM,Eunitor Owour (124),,254721279697,unanswered,00:00:04,00:00:00,00:00:04,0.00,Failed,
+1/31/2022 1:25:37 PM,Martha Njoroge (021),,254706880312,answered,00:00:11,00:00:30,00:00:41,0.50,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254706880312_20220131102548%25281944%2529.wav
+1/31/2022 1:25:04 PM,+254718374450,,IVR (802),answered,00:00:01,00:00:16,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254718374450,,Q Customer Care #1 (800),answered,00:00:00,00:00:15,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254718374450,,Lucy Muchene (119),answered,00:00:15,00:00:48,00:01:35,0.00,Terminated by +254718374450,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254718374450%255D_%252B254718374450-119_20220131102536%25281941%2529.wav
+1/31/2022 1:26:30 PM,Janeffer Chege (123),,+254714758221,answered,00:00:21,00:00:35,00:00:56,0.58,Terminated by +254714758221,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-714758221_20220131102651%25281947%2529.wav
+1/31/2022 1:27:15 PM,Lilian Hewa (116),,254711412009,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 1:26:20 PM,Martha Njoroge (021),,254718754926,answered,00:00:19,00:01:09,00:01:28,1.15,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254718754926_20220131102639%25281946%2529.wav
+1/31/2022 1:28:11 PM,Martha Njoroge (021),,254795451300,answered,00:00:15,00:00:00,00:00:15,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254795451300_20220131102826%25281951%2529.wav
+1/31/2022 1:28:06 PM,Eunitor Owour (124),,254724106898,answered,00:00:14,00:00:23,00:00:37,0.38,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254724106898_20220131102820%25281950%2529.wav
+1/31/2022 1:28:48 PM,Eunitor Owour (124),,254723984016,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 1:28:16 PM,Janeffer Chege (123),,254741838339,unanswered,00:00:38,00:00:00,00:00:38,0.00,Failed,
+1/31/2022 1:28:32 PM,Martha Njoroge (021),,254711108509,unanswered,00:00:28,00:00:00,00:00:28,0.00,Failed,
+1/31/2022 1:28:05 PM,Lucy Muchene (119),,+254114396968,answered,00:00:09,00:01:11,00:01:20,1.18,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-0114396968_20220131102814%25281949%2529.wav
+1/31/2022 1:28:44 PM,Lilian Hewa (116),,254716924263,answered,00:00:10,00:00:33,00:00:43,0.55,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254716924263_20220131102854%25281954%2529.wav
+1/31/2022 1:29:33 PM,Lilian Hewa (116),,254733630028,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 1:29:26 PM,Martha Njoroge (021),,254706210306,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 1:30:24 PM,Eunitor Owour (124),,254724950259,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 1:29:48 PM,Lucy Muchene (119),,+254718374450,answered,00:00:13,00:00:41,00:00:54,0.68,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-%252B254718374450_20220131103001%25281958%2529.wav
+1/31/2022 1:30:19 PM,Martha Njoroge (021),,254721855346,answered,00:00:09,00:00:23,00:00:32,0.38,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254721855346_20220131103028%25281960%2529.wav
+1/31/2022 1:30:23 PM,Lilian Hewa (116),,254794139533,answered,00:00:23,00:00:37,00:01:00,0.62,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254794139533_20220131103046%25281961%2529.wav
+1/31/2022 1:30:55 PM,Martha Njoroge (021),,254715633395,answered,00:00:22,00:00:34,00:00:56,0.57,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254715633395_20220131103117%25281964%2529.wav
+1/31/2022 1:30:12 PM,+254728071818,,IVR (802),answered,00:00:00,00:00:15,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254728071818,,Q Customer Care #1 (800),answered,00:00:01,00:00:11,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254728071818,,Maureen Atieno (120),answered,00:00:11,00:00:00,,,Picked up by Maureen Atieno (120),
+,+254728071818,,Maureen Atieno (120),answered,00:00:00,00:02:05,00:02:43,0.00,Terminated by +254728071818,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-%252B254728071818_20220131103039%25281963%2529.wav
+1/31/2022 1:31:54 PM,Martha Njoroge (021),,254797009566,answered,00:00:14,00:00:37,00:00:51,0.62,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254797009566_20220131103208%25281965%2529.wav
+1/31/2022 1:32:49 PM,Martha Njoroge (021),,254705346938,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 1:33:10 PM,+254728071818,,IVR (802),answered,00:00:00,00:00:13,00:00:13,0.00,Terminated by +254728071818,
+1/31/2022 1:33:20 PM,Janeffer Chege (123),,254722561001,unanswered,00:00:20,00:00:00,00:00:20,0.00,Failed,
+1/31/2022 1:33:26 PM,Lilian Hewa (116),,254723386120,answered,00:00:15,00:00:21,00:00:36,0.35,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-254723386120_20220131103341%25281970%2529.wav
+1/31/2022 1:33:25 PM,Martha Njoroge (021),,254790680752,answered,00:00:08,00:00:34,00:00:42,0.57,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254790680752_20220131103333%25281969%2529.wav
+1/31/2022 1:33:43 PM,Eunitor Owour (124),,254722863573,answered,00:00:11,00:00:27,00:00:38,0.45,Terminated by 254722863573,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254722863573_20220131103354%25281972%2529.wav
+1/31/2022 1:34:06 PM,Janeffer Chege (123),,+254712646193,answered,00:00:10,00:00:25,00:00:35,0.42,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254712646193_20220131103416%25281973%2529.wav
+1/31/2022 1:33:32 PM,Gladys Wamahiu (032),,254769664364,answered,00:00:18,00:00:55,00:01:13,0.92,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-254769664364_20220131103350%25281971%2529.wav
+1/31/2022 1:34:28 PM,Eunitor Owour (124),,254726488284,unanswered,00:00:21,00:00:00,00:00:21,0.00,Failed,
+1/31/2022 1:34:48 PM,Lilian Hewa (116),,254706560185,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 1:35:27 PM,Lilian Hewa (116),,254776274550,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 1:34:56 PM,Janeffer Chege (123),,+254712646193,answered,00:00:07,00:00:25,00:00:32,0.42,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254712646193_20220131103503%25281977%2529.wav
+1/31/2022 1:34:52 PM,Gladys Wamahiu (032),,Martha Njoroge (021),answered,00:00:04,00:00:43,00:00:47,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-021_20220131103456%25281976%2529.wav
+1/31/2022 1:35:29 PM,Eunitor Owour (124),,254796025988,unanswered,00:00:12,00:00:00,00:00:12,0.00,Failed,
+1/31/2022 1:36:18 PM,Janeffer Chege (123),,+254712646193,answered,00:00:08,00:00:04,00:00:12,0.07,Terminated by +254712646193,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254712646193_20220131103626%25281981%2529.wav
+1/31/2022 1:36:10 PM,Martha Njoroge (021),,254712653919,answered,00:00:15,00:00:25,00:00:40,0.42,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254712653919_20220131103625%25281980%2529.wav
+1/31/2022 1:36:58 PM,Martha Njoroge (021),,254072371486,unanswered,00:00:00,00:00:00,00:00:00,0.00,Failed,
+1/31/2022 1:37:03 PM,Martha Njoroge (021),,254072371486,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 1:36:43 PM,Janeffer Chege (123),,254794194907,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 1:36:45 PM,Eunitor Owour (124),,254746523102,answered,00:00:15,00:00:29,00:00:44,0.48,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254746523102_20220131103700%25281983%2529.wav
+1/31/2022 1:37:23 PM,Janeffer Chege (123),,254710469868,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 1:36:49 PM,Gladys Wamahiu (032),,254769664364,answered,00:00:17,00:01:13,00:01:30,1.22,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-254769664364_20220131103706%25281984%2529.wav
+1/31/2022 1:37:39 PM,Eunitor Owour (124),,254718299107,answered,00:00:30,00:00:19,00:00:49,0.32,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254718299107_20220131103809%25281989%2529.wav
+1/31/2022 1:37:52 PM,Joseph Theuri (121),,254722659836,answered,00:00:17,00:00:19,00:00:36,0.32,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254722659836_20220131103809%25281990%2529.wav
+1/31/2022 1:37:22 PM,Martha Njoroge (021),,254700631101,answered,00:00:12,00:01:12,00:01:24,1.20,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254700631101_20220131103734%25281987%2529.wav
+1/31/2022 1:39:16 PM,Joseph Theuri (121),,254722659836,answered,00:00:17,00:00:09,00:00:26,0.15,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254722659836_20220131103933%25281993%2529.wav
+1/31/2022 1:38:46 PM,Eunitor Owour (124),,254708944923,answered,00:00:15,00:00:43,00:00:58,0.72,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254708944923_20220131103901%25281991%2529.wav
+1/31/2022 1:38:56 PM,+254715677982,,IVR (802),answered,00:00:00,00:00:16,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254715677982,,Q Customer Care #1 (800),answered,00:00:00,00:00:14,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254715677982,,Gladys Wamahiu (032),answered,00:00:13,00:00:51,00:01:34,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254715677982%255D_%252B254715677982-032_20220131103926%25281992%2529.wav
+1/31/2022 1:40:36 PM,Janeffer Chege (123),,254729580355,answered,00:00:26,00:00:53,00:01:19,0.88,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254729580355_20220131104102%25281994%2529.wav
+1/31/2022 1:41:24 PM,Martha Njoroge (021),,254714955612,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 1:41:15 PM,Joseph Theuri (121),,254723098140,answered,00:00:33,00:00:43,00:01:16,0.72,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254723098140_20220131104148%25281995%2529.wav
+1/31/2022 1:42:03 PM,Martha Njoroge (021),,254715530845,answered,00:00:16,00:00:37,00:00:53,0.62,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254715530845_20220131104219%25281997%2529.wav
+1/31/2022 1:42:34 PM,Eunitor Owour (124),,254725535200,answered,00:00:24,00:00:21,00:00:45,0.35,Terminated by 254725535200,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254725535200_20220131104258%25281999%2529.wav
+1/31/2022 1:42:27 PM,Janeffer Chege (123),,254706474825,answered,00:00:09,00:00:59,00:01:08,0.98,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254706474825_20220131104236%25281998%2529.wav
+1/31/2022 1:43:00 PM,Martha Njoroge (021),,254707092853,answered,00:00:13,00:00:33,00:00:46,0.55,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254707092853_20220131104313%25282000%2529.wav
+1/31/2022 1:43:43 PM,Eunitor Owour (124),,254729739116,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 1:43:41 PM,Janeffer Chege (123),,254726149055,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 1:43:59 PM,Joseph Theuri (121),,254717710802,answered,00:00:24,00:00:34,00:00:58,0.57,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254717710802_20220131104423%25282003%2529.wav
+1/31/2022 1:45:50 PM,Janeffer Chege (123),,707600768,unanswered,00:00:03,00:00:00,00:00:03,0.00,Failed,
+1/31/2022 1:45:05 PM,+254780130425,,IVR (802),answered,00:00:00,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254780130425,,Q Customer Care #1 (800),answered,00:00:00,00:00:38,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254780130425,,Maureen Atieno (120),answered,00:00:07,00:00:20,00:01:19,0.00,Terminated by +254780130425,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254780130425%255D_%252B254780130425-120_20220131104557%25282004%2529.wav
+1/31/2022 1:46:28 PM,+254723717417,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254723717417,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:06,,,Terminated by +254723717417,
+1/31/2022 1:46:22 PM,Janeffer Chege (123),,254720257535,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 1:47:22 PM,Janeffer Chege (123),,254723842442,answered,00:00:12,00:00:38,00:00:50,0.63,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254723842442_20220131104734%25282009%2529.wav
+1/31/2022 1:48:18 PM,Janeffer Chege (123),,254705251301,unanswered,00:00:08,00:00:00,00:00:08,0.00,Failed,
+1/31/2022 1:46:53 PM,+254723717417,,IVR (802),answered,00:00:00,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254723717417,,Q Customer Care #1 (800),answered,00:00:00,00:00:11,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254723717417,,Lucy Muchene (119),answered,00:00:10,00:02:00,00:02:32,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254723717417%255D_%252B254723717417-119_20220131104715%25282008%2529.wav
+1/31/2022 1:49:04 PM,Eunitor Owour (124),,254722863573,unanswered,00:00:23,00:00:00,00:00:23,0.00,Failed,
+1/31/2022 1:48:44 PM,Martha Njoroge (021),,254713222667,answered,00:00:15,00:00:30,00:00:45,0.50,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254713222667_20220131104859%25282011%2529.wav
+1/31/2022 1:49:25 PM,Janeffer Chege (123),,254722157587,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 1:49:47 PM,Eunitor Owour (124),,254722542073,answered,00:00:29,00:00:30,00:00:59,0.50,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254722542073_20220131105016%25282014%2529.wav
+1/31/2022 1:50:21 PM,Janeffer Chege (123),,254724269109,answered,00:00:15,00:00:41,00:00:56,0.68,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254724269109_20220131105036%25282015%2529.wav
+1/31/2022 1:50:49 PM,Eunitor Owour (124),,254727381869,answered,00:00:16,00:00:22,00:00:38,0.37,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254727381869_20220131105105%25282016%2529.wav
+1/31/2022 1:51:34 PM,+254706061916,,IVR (802),answered,00:00:00,00:00:06,00:00:06,0.00,Terminated by +254706061916,
+1/31/2022 1:51:23 PM,Martha Njoroge (021),,254728121272,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 1:51:29 PM,Janeffer Chege (123),,254798118547,answered,00:00:11,00:00:29,00:00:40,0.48,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254798118547_20220131105140%25282019%2529.wav
+1/31/2022 1:52:08 PM,Martha Njoroge (021),,254726753782,unanswered,00:00:22,00:00:00,00:00:22,0.00,Failed,
+1/31/2022 1:51:24 PM,Joseph Theuri (121),,254700588058,answered,00:00:23,00:00:51,00:01:14,0.85,Terminated by Joseph Theuri (121),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254700588058_20220131105147%25282018%2529.wav
+1/31/2022 1:55:51 PM,Eunitor Owour (124),,254734506820,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 1:56:21 PM,Eunitor Owour (124),,254701743030,answered,00:00:08,00:00:22,00:00:30,0.37,Terminated by 254701743030,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254701743030_20220131105629%25282025%2529.wav
+1/31/2022 1:56:02 PM,Martha Njoroge (021),,254707037097,answered,00:00:18,00:00:38,00:00:56,0.63,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254707037097_20220131105620%25282023%2529.wav
+1/31/2022 1:57:09 PM,Janeffer Chege (123),,254796677012,answered,00:00:14,00:00:34,00:00:48,0.57,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254796677012_20220131105723%25282026%2529.wav
+1/31/2022 1:56:15 PM,Joseph Theuri (121),,254712514129,answered,00:00:11,00:01:31,00:01:42,1.52,Terminated by 254712514129,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254712514129_20220131105626%25282024%2529.wav
+1/31/2022 1:58:02 PM,Janeffer Chege (123),,797490600,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 1:57:55 PM,Eunitor Owour (124),,254790238157,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 1:58:55 PM,+254726753782,,IVR (802),answered,00:00:00,00:00:12,00:00:12,0.00,Terminated by +254726753782,
+1/31/2022 1:57:29 PM,254111180000,,IVR (802),answered,00:00:00,00:00:20,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,254111180000,,Q Clinical Care #2 (801),answered,00:00:01,00:00:08,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,254111180000,,Martha Njoroge (021),answered,00:00:08,00:01:10,00:01:47,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A254111180000%255D_254111180000-021_20220131105758%25282027%2529.wav
+1/31/2022 2:00:49 PM,Eunitor Owour (124),,254714112792,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 2:01:24 PM,Eunitor Owour (124),,254720246805,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 2:02:44 PM,+254706061916,,IVR (802),answered,00:00:01,00:00:00,00:00:01,0.00,Terminated by +254706061916,
+1/31/2022 2:01:39 PM,Martha Njoroge (021),,254733538824,answered,00:00:36,00:01:40,00:02:16,1.67,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254733538824_20220131110215%25282033%2529.wav
+1/31/2022 2:12:47 PM,+254101397383,,IVR (802),answered,00:00:01,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254101397383,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:00,00:00:15,0.00,Terminated by Q Customer Care #1 (800),
+1/31/2022 2:14:48 PM,+254101397383,,IVR (802),answered,00:00:01,00:00:16,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254101397383,,Q Customer Care #1 (800),answered,00:00:00,00:00:11,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254101397383,,Maureen Atieno (120),answered,00:00:10,00:03:09,00:03:47,0.00,Terminated by +254101397383,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254101397383%255D_%252B254101397383-120_20220131111516%25282036%2529.wav
+1/31/2022 2:19:51 PM,+254101397383,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254101397383,,Q Customer Care #1 (800),answered,00:00:01,00:00:08,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254101397383,,Gladys Wamahiu (032),answered,00:00:08,00:00:26,00:00:55,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254101397383%255D_%252B254101397383-032_20220131112012%25282037%2529.wav
+1/31/2022 2:23:25 PM,+254712599711,,IVR (802),answered,00:00:00,00:00:15,00:00:15,0.00,Terminated by +254712599711,
+1/31/2022 2:23:45 PM,+254712599711,,IVR (802),answered,00:00:01,00:00:12,00:00:13,0.00,Terminated by +254712599711,
+1/31/2022 2:24:12 PM,+254740200398,,IVR (802),answered,00:00:00,00:00:17,00:00:17,0.00,Terminated by +254740200398,
+1/31/2022 2:24:34 PM,+254740200398,,IVR (802),answered,00:00:00,00:00:30,00:00:30,0.00,Terminated by +254740200398,
+1/31/2022 2:23:19 PM,+254101397383,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254101397383,,Q Customer Care #1 (800),answered,00:00:01,00:00:39,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254101397383,,Maureen Atieno (120),answered,00:00:09,00:01:07,00:02:09,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254101397383%255D_%252B254101397383-120_20220131112412%25282038%2529.wav
+1/31/2022 2:24:33 PM,+254740200398,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254740200398,
+1/31/2022 2:25:13 PM,+254740200398,,IVR (802),answered,00:00:00,00:00:17,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254740200398,,Q Clinical Care #2 (801),answered,00:00:00,00:00:09,,,Q Clinical Care #2 (801) replaced by Janeffer Chege (123),
+,+254740200398,,Janeffer Chege (123),answered,00:00:08,00:00:03,00:00:37,0.00,Terminated by +254740200398,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BClinical%2520Care%2520%25232%25253A%252B254740200398%255D_%252B254740200398-123_20220131112539%25282044%2529.wav
+1/31/2022 2:25:48 PM,+254740200398,,IVR (802),answered,00:00:01,00:00:17,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254740200398,,Q Customer Care #1 (800),answered,00:00:00,00:00:24,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254740200398,,Maureen Atieno (120),answered,00:00:09,00:01:55,00:02:46,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254740200398%255D_%252B254740200398-120_20220131112630%25282045%2529.wav
+1/31/2022 2:29:27 PM,Gladys Wamahiu (032),,+254101397383,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 2:29:30 PM,Gladys Wamahiu (032),,+254101397383,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 2:30:54 PM,Eunitor Owour (124),,254727553434,answered,00:00:16,00:00:22,00:00:38,0.37,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254727553434_20220131113110%25282048%2529.wav
+1/31/2022 2:33:46 PM,Eunitor Owour (124),,254734506820,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 2:34:35 PM,Eunitor Owour (124),,254729261499,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 2:35:32 PM,Eunitor Owour (124),,254721104830,answered,00:00:14,00:00:38,00:00:52,0.63,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254721104830_20220131113546%25282051%2529.wav
+1/31/2022 2:36:12 PM,Joseph Theuri (121),,254706144299,answered,00:00:11,00:00:13,00:00:24,0.22,Terminated by 254706144299,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254706144299_20220131113623%25282052%2529.wav
+1/31/2022 2:37:05 PM,Joseph Theuri (121),,254706144299,answered,00:00:09,00:00:25,00:00:34,0.42,Terminated by 254706144299,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254706144299_20220131113714%25282053%2529.wav
+1/31/2022 2:37:10 PM,Eunitor Owour (124),,254742581942,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 2:38:07 PM,Eunitor Owour (124),,254725797603,answered,00:00:19,00:00:33,00:00:52,0.55,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254725797603_20220131113826%25282055%2529.wav
+1/31/2022 2:38:47 PM,Joseph Theuri (121),,254715516421,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 2:39:47 PM,254715875957,,IVR (802),answered,00:00:00,00:00:15,00:00:15,0.00,Terminated by 254715875957,
+1/31/2022 2:40:08 PM,254715875957,,IVR (802),answered,00:00:01,00:00:06,00:00:07,0.00,Terminated by 254715875957,
+1/31/2022 2:39:01 PM,+254727302528,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254727302528,,Q Customer Care #1 (800),answered,00:00:00,00:00:09,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254727302528,,Gladys Wamahiu (032),answered,00:00:08,00:01:03,00:01:33,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254727302528%255D_%252B254727302528-032_20220131113923%25282057%2529.wav
+1/31/2022 2:40:25 PM,Joseph Theuri (121),,254708672119,answered,00:00:11,00:00:46,00:00:57,0.77,Terminated by 254708672119,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254708672119_20220131114036%25282060%2529.wav
+1/31/2022 2:41:44 PM,Eunitor Owour (124),,254707298238,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 2:42:31 PM,Joseph Theuri (121),,254726217857,answered,00:00:07,00:00:58,00:01:05,0.97,Terminated by 254726217857,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254726217857_20220131114238%25282062%2529.wav
+1/31/2022 2:44:46 PM,+254745927553,,IVR (802),answered,00:00:01,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254745927553,,Q Customer Care #1 (800),answered,00:00:01,00:00:12,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254745927553,,Lucy Muchene (119),answered,00:00:12,00:00:56,00:01:34,0.00,Terminated by +254745927553,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254745927553%255D_%252B254745927553-119_20220131114512%25282063%2529.wav
+1/31/2022 2:45:42 PM,Gladys Wamahiu (032),,254722427138,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 2:45:56 PM,Joseph Theuri (121),,254729314469,answered,00:00:09,00:00:15,00:00:24,0.25,Terminated by 254729314469,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-254729314469_20220131114605%25282066%2529.wav
+1/31/2022 2:45:43 PM,Eunitor Owour (124),,254718452779,answered,00:00:10,00:00:49,00:00:59,0.82,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254718452779_20220131114553%25282065%2529.wav
+1/31/2022 2:46:26 PM,Gladys Wamahiu (032),,Joseph Theuri (121),answered,00:00:03,00:00:42,00:00:45,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-121_20220131114629%25282067%2529.wav
+1/31/2022 2:46:26 PM,773738757,,IVR (802),answered,00:00:01,00:01:39,00:01:40,0.00,Terminated by 773738757,
+1/31/2022 2:47:37 PM,Eunitor Owour (124),,254748452141,answered,00:00:13,00:00:33,00:00:46,0.55,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254748452141_20220131114750%25282069%2529.wav
+1/31/2022 2:48:38 PM,Eunitor Owour (124),,254725827524,unanswered,00:00:08,00:00:00,00:00:08,0.00,Failed,
+1/31/2022 2:48:22 PM,Joseph Theuri (121),,Gladys Wamahiu (032),answered,00:00:02,00:01:35,00:01:37,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-032_20220131114824%25282070%2529.wav
+1/31/2022 2:49:58 PM,+254715516421,,IVR (802),answered,00:00:00,00:00:09,00:00:09,0.00,Terminated by +254715516421,
+1/31/2022 2:50:18 PM,Eunitor Owour (124),,254703672748,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 2:50:03 PM,Joseph Theuri (121),,254722427138,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 2:50:47 PM,+254724578573,,IVR (802),answered,00:00:00,00:00:13,00:00:13,0.00,Terminated by +254724578573,
+1/31/2022 2:51:12 PM,+254724578573,,IVR (802),answered,00:00:01,00:00:25,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254724578573,,Q Clinical Care #2 (801),unanswered,00:00:00,00:00:10,,,Terminated by +254724578573,
+1/31/2022 2:52:49 PM,Joseph Theuri (121),,Gladys Wamahiu (032),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (032)",
+,Joseph Theuri (121),,VMail (032),answered,00:00:00,00:00:03,00:00:23,0.00,Terminated by Joseph Theuri (121),
+1/31/2022 2:53:04 PM,Martha Njoroge (021),,+254724578573,answered,00:00:09,00:00:45,00:00:54,0.75,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-%252B254724578573_20220131115313%25282078%2529.wav
+1/31/2022 2:53:43 PM,Gladys Wamahiu (032),,Joseph Theuri (121),answered,00:00:03,00:00:29,00:00:32,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-121_20220131115346%25282079%2529.wav
+1/31/2022 2:54:10 PM,Martha Njoroge (021),,254769052719,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 2:54:56 PM,Martha Njoroge (021),,254714030447,answered,00:00:10,00:00:09,00:00:19,0.15,Terminated by 254714030447,https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254714030447_20220131115506%25282083%2529.wav
+1/31/2022 2:54:48 PM,+254720780632,,IVR (802),answered,00:00:00,00:00:17,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254720780632,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:20,,,Terminated by +254720780632,
+1/31/2022 2:54:12 PM,Maureen Atieno (120),,254734003993,answered,00:00:29,00:00:52,00:01:21,0.87,Terminated by 254734003993,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254734003993_20220131115441%25282081%2529.wav
+1/31/2022 2:55:10 PM,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:17,00:00:00,,,Picked up by Stellah Wambui (004),
+,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:00,00:00:34,00:00:51,0.00,Terminated by IVR (PlayFile),https://pendahealth.elastix.com:5001/#/download_record/004%252F%255BStellah%2520Wambui%255D_004-PlayFile_20220131115527%25282085%2529.wav
+1/31/2022 2:55:42 PM,Martha Njoroge (021),,254717679371,answered,00:00:07,00:00:34,00:00:41,0.57,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254717679371_20220131115549%25282087%2529.wav
+1/31/2022 2:56:07 PM,+254728999222,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254728999222,,Q Customer Care #1 (800),answered,00:00:00,00:00:22,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254728999222,,Gladys Wamahiu (032),answered,00:00:22,00:00:16,00:01:12,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254728999222%255D_%252B254728999222-032_20220131115641%25282088%2529.wav
+1/31/2022 2:56:54 PM,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:07,00:00:00,,,Picked up by Stellah Wambui (004),
+,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:00,00:00:39,00:00:46,0.00,Terminated by IVR (PlayFile),https://pendahealth.elastix.com:5001/#/download_record/004%252F%255BStellah%2520Wambui%255D_004-PlayFile_20220131115701%25282090%2529.wav
+1/31/2022 2:55:30 PM,+254720780632,,IVR (802),answered,00:00:01,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254720780632,,Q Customer Care #1 (800),answered,00:00:00,00:00:44,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254720780632,,Maureen Atieno (120),answered,00:00:13,00:01:28,00:02:37,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254720780632%255D_%252B254720780632-120_20220131115626%25282086%2529.wav
+1/31/2022 2:57:17 PM,+254728999222,,IVR (802),answered,00:00:00,00:00:07,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254728999222,,Q Customer Care #1 (800),answered,00:00:00,00:00:14,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,+254728999222,,Lucy Muchene (119),answered,00:00:13,00:00:48,00:01:22,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A%252B254728999222%255D_%252B254728999222-119_20220131115738%25282091%2529.wav
+1/31/2022 2:58:30 PM,Eunitor Owour (124),,254706840007,answered,00:00:15,00:01:09,00:01:24,1.15,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254706840007_20220131115845%25282093%2529.wav
+1/31/2022 2:57:45 PM,Martha Njoroge (021),,254734564095,answered,00:00:15,00:02:01,00:02:16,2.02,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254734564095_20220131115800%25282092%2529.wav
+1/31/2022 2:59:59 PM,Eunitor Owour (124),,25411444583,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 2:58:59 PM,Lucy Muchene (119),,+254746752351,answered,00:00:18,00:01:29,00:01:47,1.48,Terminated by +254746752351,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-0746752351_20220131115917%25282094%2529.wav
+1/31/2022 3:00:54 PM,Gladys Wamahiu (032),,Lilian Hewa (116),answered,00:00:09,00:00:12,00:00:21,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-116_20220131120103%25282098%2529.wav
+1/31/2022 3:00:38 PM,Martha Njoroge (021),,254705967036,answered,00:00:19,00:00:47,00:01:06,0.78,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254705967036_20220131120057%25282096%2529.wav
+1/31/2022 3:00:53 PM,Eunitor Owour (124),,254710438273,answered,00:00:15,00:00:43,00:00:58,0.72,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254710438273_20220131120108%25282097%2529.wav
+1/31/2022 3:01:37 PM,Gladys Wamahiu (032),,Lilian Hewa (116),answered,00:00:05,00:00:18,00:00:23,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-116_20220131120142%25282099%2529.wav
+1/31/2022 3:03:01 PM,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:09,00:00:00,,,Picked up by Stellah Wambui (004),
+,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:00,00:00:10,00:00:19,0.00,Terminated by Stellah Wambui (004),https://pendahealth.elastix.com:5001/#/download_record/004%252F%255BStellah%2520Wambui%255D_004-PlayFile_20220131120310%25282103%2529.wav
+1/31/2022 3:02:47 PM,Eunitor Owour (124),,254742510407,answered,00:00:14,00:00:59,00:01:13,0.98,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254742510407_20220131120301%25282101%2529.wav
+1/31/2022 3:03:36 PM,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:04,00:00:00,,,Picked up by Stellah Wambui (004),
+,IVR (PlayFile),,Stellah Wambui (004),answered,00:00:00,00:00:27,00:00:31,0.00,Terminated by IVR (PlayFile),https://pendahealth.elastix.com:5001/#/download_record/004%252F%255BStellah%2520Wambui%255D_004-PlayFile_20220131120339%25282105%2529.wav
+1/31/2022 3:04:06 PM,Eunitor Owour (124),,254715815884,answered,00:00:11,00:00:27,00:00:38,0.45,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254715815884_20220131120417%25282106%2529.wav
+1/31/2022 3:05:12 PM,Eunitor Owour (124),,254714305343,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 3:02:13 PM,Gladys Wamahiu (032),,Maureen Atieno (120),answered,00:00:15,00:03:11,00:03:26,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-120_20220131120228%25282100%2529.wav
+1/31/2022 3:04:11 PM,Martha Njoroge (021),,254729314469,answered,00:00:12,00:01:35,00:01:47,1.58,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254729314469_20220131120423%25282107%2529.wav
+1/31/2022 3:07:20 PM,Eunitor Owour (124),,254716687942,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 3:08:12 PM,Martha Njoroge (021),,254740770031,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 3:08:18 PM,Martha Njoroge (021),,254740770031,unanswered,00:00:03,00:00:00,00:00:03,0.00,Failed,
+1/31/2022 3:09:30 PM,Eunitor Owour (124),,254788881222,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 3:11:11 PM,Martha Njoroge (021),,254757278264,answered,00:00:09,00:00:26,00:00:35,0.43,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254757278264_20220131121120%25282114%2529.wav
+1/31/2022 3:10:31 PM,Eunitor Owour (124),,254722915577,answered,00:00:19,00:01:33,00:01:52,1.55,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254722915577_20220131121050%25282113%2529.wav
+1/31/2022 3:12:41 PM,+254726763940,,IVR (802),answered,00:00:00,00:00:03,00:00:03,0.00,Terminated by +254726763940,
+1/31/2022 3:12:52 PM,Eunitor Owour (124),,254715479123,answered,00:00:11,00:00:46,00:00:57,0.77,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254715479123_20220131121303%25282116%2529.wav
+1/31/2022 3:12:58 PM,+254726763940,,IVR (802),answered,00:00:00,00:00:16,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254726763940,,Q Customer Care #1 (800),answered,00:00:00,00:00:10,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254726763940,,Maureen Atieno (120),answered,00:00:09,00:01:00,00:01:35,0.00,Terminated by +254726763940,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254726763940%255D_%252B254726763940-120_20220131121324%25282117%2529.wav
+1/31/2022 3:14:32 PM,Eunitor Owour (124),,254708043219,answered,00:00:10,00:00:22,00:00:32,0.37,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254708043219_20220131121442%25282118%2529.wav
+1/31/2022 3:16:50 PM,Eunitor Owour (124),,254720975114,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 3:17:48 PM,Eunitor Owour (124),,254710478620,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 3:18:44 PM,Eunitor Owour (124),,254710367129,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 3:19:11 PM,Joseph Theuri (121),,254728848982,unanswered,00:00:17,00:00:00,00:00:17,0.00,Failed,
+1/31/2022 3:19:55 PM,Joseph Theuri (121),,254728848982,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 3:19:56 PM,Eunitor Owour (124),,254703447785,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 3:20:08 PM,Joseph Theuri (121),,254728848982,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 3:21:21 PM,+254788881222,,IVR (802),answered,00:00:01,00:00:02,00:00:03,0.00,Terminated by +254788881222,
+1/31/2022 3:21:04 PM,Eunitor Owour (124),,254716450260,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 3:22:00 PM,Eunitor Owour (124),,254751467172,answered,00:00:14,00:00:32,00:00:46,0.53,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254751467172_20220131122214%25282128%2529.wav
+1/31/2022 3:22:44 PM,Martha Njoroge (021),,254715862760,answered,00:00:20,00:00:35,00:00:55,0.58,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-254715862760_20220131122304%25282129%2529.wav
+1/31/2022 3:23:55 PM,Maureen Atieno (120),,254728848982,unanswered,00:00:13,00:00:00,00:00:13,0.00,Failed,
+1/31/2022 3:24:21 PM,Maureen Atieno (120),,728848982,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 3:24:18 PM,Eunitor Owour (124),,254748119507,answered,00:00:16,00:00:21,00:00:37,0.35,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254748119507_20220131122434%25282131%2529.wav
+1/31/2022 3:26:41 PM,Lilian Hewa (116),,254722427138,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 3:26:30 PM,Eunitor Owour (124),,254748006376,unanswered,00:00:24,00:00:00,00:00:24,0.00,Failed,
+1/31/2022 3:27:11 PM,+254724587842,,IVR (802),answered,00:00:00,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254724587842,,Q Customer Care #1 (800),answered,00:00:01,00:00:12,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254724587842,,Gladys Wamahiu (032),answered,00:00:12,00:00:33,00:01:08,0.00,Terminated by +254724587842,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254724587842%255D_%252B254724587842-032_20220131122734%25282135%2529.wav
+1/31/2022 3:27:44 PM,Eunitor Owour (124),,254733749262,answered,00:00:12,00:00:21,00:00:33,0.35,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254733749262_20220131122756%25282136%2529.wav
+1/31/2022 3:28:16 PM,Lilian Hewa (116),,+254740200398,answered,00:00:25,00:00:21,00:00:46,0.35,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-0740200398_20220131122841%25282138%2529.wav
+1/31/2022 3:28:01 PM,Maureen Atieno (120),,254704520201,answered,00:00:16,00:01:07,00:01:23,1.12,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254704520201_20220131122817%25282137%2529.wav
+1/31/2022 3:28:54 PM,Martha Njoroge (021),,254720780632,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 3:29:32 PM,Martha Njoroge (021),,254720780632,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 3:28:24 PM,Lucy Muchene (119),,Joseph Theuri (121),answered,00:00:06,00:02:04,00:02:10,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BLucy%2520Muchene%255D_119-121_20220131122830%25282139%2529.wav
+1/31/2022 3:30:39 PM,Martha Njoroge (021),,254720780632,unanswered,00:00:30,00:00:00,00:00:30,0.00,Failed,
+1/31/2022 3:30:58 PM,Eunitor Owour (124),,254725559207,answered,00:00:11,00:00:58,00:01:09,0.97,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254725559207_20220131123109%25282144%2529.wav
+1/31/2022 3:32:09 PM,Joseph Theuri (121),,Lucy Muchene (119),answered,00:00:09,00:00:20,00:00:29,0.00,Terminated by Lucy Muchene (119),https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BJoseph%2520Theuri%255D_121-119_20220131123218%25282145%2529.wav
+1/31/2022 3:29:07 PM,Lilian Hewa (116),,+254740200398,answered,00:00:18,00:03:37,00:03:55,3.62,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254740200398_20220131122925%25282141%2529.wav
+1/31/2022 3:32:49 PM,Janeffer Chege (123),,254711486408,answered,00:00:19,00:00:22,00:00:41,0.37,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254711486408_20220131123308%25282146%2529.wav
+1/31/2022 3:33:36 PM,Eunitor Owour (124),,254703447785,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 3:33:44 PM,Janeffer Chege (123),,+254712646193,answered,00:00:09,00:00:47,00:00:56,0.78,Terminated by +254712646193,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0712646193_20220131123353%25282148%2529.wav
+1/31/2022 3:34:50 PM,Janeffer Chege (123),,254711486408,answered,00:00:18,00:00:33,00:00:51,0.55,Terminated by 254711486408,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254711486408_20220131123508%25282149%2529.wav
+1/31/2022 3:35:52 PM,Janeffer Chege (123),,711108509,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 3:36:32 PM,Janeffer Chege (123),,716621548,unanswered,00:00:36,00:00:00,00:00:36,0.00,Failed,
+1/31/2022 3:37:24 PM,+254736770362,,IVR (802),answered,00:00:01,00:00:01,00:00:02,0.00,Terminated by +254736770362,
+1/31/2022 3:37:31 PM,+254740200398,,IVR (802),answered,00:00:00,00:00:12,00:00:12,0.00,Terminated by +254740200398,
+1/31/2022 3:36:12 PM,254729270425,,IVR (802),answered,00:00:00,00:00:13,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254729270425,,Q Customer Care #1 (800),answered,00:00:00,00:00:11,,,Q Customer Care #1 (800) replaced by Lucy Muchene (119),
+,254729270425,,Lucy Muchene (119),answered,00:00:11,00:01:14,00:01:49,0.00,Terminated by 254729270425,https://pendahealth.elastix.com:5001/#/download_record/119%252F%255BCustomer%2520Care%2520%25231%25253A254729270425%255D_254729270425-119_20220131123636%25282151%2529.wav
+1/31/2022 3:37:47 PM,+254740200398,,IVR (802),answered,00:00:01,00:00:04,00:00:05,0.00,Terminated by +254740200398,
+1/31/2022 3:38:11 PM,Eunitor Owour (124),,254722115572,answered,00:00:23,00:00:21,00:00:44,0.35,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254722115572_20220131123834%25282156%2529.wav
+1/31/2022 3:38:40 PM,Janeffer Chege (123),,254715112829,answered,00:00:26,00:01:02,00:01:28,1.03,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254715112829_20220131123906%25282157%2529.wav
+1/31/2022 3:40:05 PM,Lucy Muchene (119),,254729270425,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 3:39:44 PM,Eunitor Owour (124),,254727422514,answered,00:00:30,00:00:13,00:00:43,0.22,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254727422514_20220131124014%25282158%2529.wav
+1/31/2022 3:40:27 PM,Janeffer Chege (123),,254721857831,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 3:40:45 PM,+254721857831,,IVR (802),answered,00:00:01,00:00:04,00:00:05,0.00,Terminated by +254721857831,
+1/31/2022 3:41:27 PM,+254740130553,,IVR (802),answered,00:00:01,00:00:14,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254740130553,,Q Clinical Care #2 (801),answered,00:00:01,00:00:07,,,Q Clinical Care #2 (801) replaced by Martha Njoroge (021),
+,+254740130553,,Martha Njoroge (021),answered,00:00:07,00:00:38,00:01:08,0.00,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BClinical%2520Care%2520%25232%25253A%252B254740130553%255D_%252B254740130553-021_20220131124150%25282162%2529.wav
+1/31/2022 3:43:15 PM,Martha Njoroge (021),,+254740130553,answered,00:00:10,00:00:13,00:00:23,0.22,Terminated by Martha Njoroge (021),https://pendahealth.elastix.com:5001/#/download_record/021%252F%255BMartha%2520Njoroge%255D_021-%252B254740130553_20220131124325%25282163%2529.wav
+1/31/2022 3:44:19 PM,Eunitor Owour (124),,254729506672,unanswered,00:00:04,00:00:00,00:00:04,0.00,Failed,
+1/31/2022 3:49:23 PM,Gladys Wamahiu (032),,254704520201,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 3:50:18 PM,Gladys Wamahiu (032),,254704520201,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 3:51:39 PM,Gladys Wamahiu (032),,254704520201,unanswered,00:00:30,00:00:00,00:00:30,0.00,Failed,
+1/31/2022 3:52:04 PM,Eunitor Owour (124),,254723064358,answered,00:00:16,00:00:38,00:00:54,0.63,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254723064358_20220131125220%25282168%2529.wav
+1/31/2022 3:53:02 PM,Eunitor Owour (124),,254727332052,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 3:52:11 PM,Gladys Wamahiu (032),,Stellah Wambui (004),answered,00:00:09,00:00:00,,,Picked up by Stellah Wambui (004),
+,Gladys Wamahiu (032),,Stellah Wambui (004),answered,00:00:00,00:01:49,00:01:58,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/004%252F%255BStellah%2520Wambui%255D_004-032_20220131125220%25282170%2529.wav
+1/31/2022 3:54:00 PM,Eunitor Owour (124),,254727073951,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 3:56:21 PM,Janeffer Chege (123),,254721857831,answered,00:00:07,00:00:36,00:00:43,0.60,Terminated by 254721857831,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254721857831_20220131125628%25282173%2529.wav
+1/31/2022 3:57:20 PM,Eunitor Owour (124),,254740433255,answered,00:00:11,00:00:31,00:00:42,0.52,Terminated by 254740433255,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254740433255_20220131125731%25282174%2529.wav
+1/31/2022 3:59:04 PM,Eunitor Owour (124),,254724425639,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 3:59:10 PM,Gladys Wamahiu (032),,254704520201,answered,00:00:06,00:01:05,00:01:11,1.08,Terminated by 254704520201,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-254704520201_20220131125916%25282176%2529.wav
+1/31/2022 3:59:46 PM,Lilian Hewa (116),,+254740200398,answered,00:00:28,00:00:49,00:01:17,0.82,Terminated by Lilian Hewa (116),https://pendahealth.elastix.com:5001/#/download_record/116%252F%255BLilian%2520Hewa%255D_116-%252B254740200398_20220131130014%25282177%2529.wav
+1/31/2022 4:01:08 PM,Eunitor Owour (124),,254791405156,answered,00:00:19,00:00:27,00:00:46,0.45,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254791405156_20220131130127%25282179%2529.wav
+1/31/2022 4:01:58 PM,Eunitor Owour (124),,254723129928,unanswered,00:00:12,00:00:00,00:00:12,0.00,Failed,
+1/31/2022 4:01:44 PM,+254704726179,,IVR (802),answered,00:00:00,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254704726179,,Q Customer Care #1 (800),answered,00:00:01,00:00:13,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254704726179,,Maureen Atieno (120),answered,00:00:13,00:00:51,00:01:29,0.00,Terminated by +254704726179,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254704726179%255D_%252B254704726179-120_20220131130209%25282180%2529.wav
+1/31/2022 4:02:30 PM,Eunitor Owour (124),,254740433255,answered,00:00:11,00:00:26,00:00:37,0.43,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254740433255_20220131130241%25282182%2529.wav
+1/31/2022 4:00:38 PM,+254721654761,,IVR (802),answered,00:00:01,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254721654761,,Q Customer Care #1 (800),answered,00:00:00,00:00:10,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,+254721654761,,Joseph Theuri (121),answered,00:00:09,00:02:08,00:02:42,0.00,Terminated by +254721654761,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A%252B254721654761%255D_%252B254721654761-121_20220131130103%25282178%2529.wav
+1/31/2022 4:03:25 PM,+254741502345,,IVR (802),answered,00:00:01,00:00:26,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254741502345,,Q Customer Care #1 (800),answered,00:00:00,00:00:12,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254741502345,,Gladys Wamahiu (032),answered,00:00:11,00:01:22,00:02:12,0.00,Terminated by +254741502345,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254741502345%255D_%252B254741502345-032_20220131130404%25282183%2529.wav
+1/31/2022 4:06:19 PM,Gladys Wamahiu (032),,+254741502345,answered,00:00:06,00:01:04,00:01:10,1.07,Terminated by +254741502345,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-0741502345_20220131130625%25282184%2529.wav
+1/31/2022 4:14:18 PM,+254707869199,,IVR (802),answered,00:00:01,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254707869199,,Q Customer Care #1 (800),answered,00:00:00,00:00:10,,,Q Customer Care #1 (800) replaced by Joseph Theuri (121),
+,+254707869199,,Joseph Theuri (121),answered,00:00:09,00:01:30,00:02:02,0.00,Terminated by +254707869199,https://pendahealth.elastix.com:5001/#/download_record/121%252F%255BCustomer%2520Care%2520%25231%25253A%252B254707869199%255D_%252B254707869199-121_20220131131441%25282185%2529.wav
+1/31/2022 4:21:11 PM,Eunitor Owour (124),,254704230052,answered,00:00:06,00:00:42,00:00:48,0.70,Terminated by 254704230052,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254704230052_20220131132117%25282186%2529.wav
+1/31/2022 4:22:16 PM,Eunitor Owour (124),,254727714620,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 4:24:10 PM,Maureen Atieno (120),,254717512401,answered,00:00:29,00:01:58,00:02:27,1.97,Terminated by 254717512401,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254717512401_20220131132439%25282188%2529.wav
+1/31/2022 4:27:08 PM,Eunitor Owour (124),,254748708672,unanswered,00:00:14,00:00:00,00:00:14,0.00,Failed,
+1/31/2022 4:28:13 PM,Eunitor Owour (124),,254727073951,unanswered,00:01:15,00:00:00,00:01:15,0.00,Failed,
+1/31/2022 4:29:49 PM,Eunitor Owour (124),,254723030249,answered,00:00:09,00:00:20,00:00:29,0.33,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254723030249_20220131132958%25282191%2529.wav
+1/31/2022 4:30:40 PM,Eunitor Owour (124),,254722166130,unanswered,00:01:19,00:00:00,00:01:19,0.00,Failed,
+1/31/2022 4:33:57 PM,Eunitor Owour (124),,254703264560,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 4:33:21 PM,Maureen Atieno (120),,254717512401,answered,00:00:17,00:01:33,00:01:50,1.55,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254717512401_20220131133338%25282193%2529.wav
+1/31/2022 4:35:30 PM,Eunitor Owour (124),,254717910338,unanswered,00:00:00,00:00:00,00:00:00,0.00,Failed,
+1/31/2022 4:35:32 PM,+254713489770,,IVR (802),answered,00:00:01,00:00:11,00:00:12,0.00,Terminated by +254713489770,
+1/31/2022 4:36:25 PM,Eunitor Owour (124),,254727073951,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 4:37:39 PM,Eunitor Owour (124),,254790519913,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 4:43:21 PM,Eunitor Owour (124),,0717512401,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 4:44:38 PM,Eunitor Owour (124),,0717512401,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 4:48:03 PM,Maureen Atieno (120),,254717512401,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 4:49:13 PM,Eunitor Owour (124),,254790729096,answered,00:00:17,00:00:27,00:00:44,0.45,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254790729096_20220131134930%25282202%2529.wav
+1/31/2022 4:50:06 PM,Eunitor Owour (124),,254728702504,answered,00:00:12,00:00:20,00:00:32,0.33,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-254728702504_20220131135018%25282203%2529.wav
+1/31/2022 4:50:54 PM,Eunitor Owour (124),,254790983885,unanswered,00:00:35,00:00:00,00:00:35,0.00,Failed,
+1/31/2022 4:52:29 PM,+254106253282,,IVR (802),answered,00:00:00,00:00:09,00:00:09,0.00,Terminated by +254106253282,
+1/31/2022 4:52:10 PM,Eunitor Owour (124),,254708004040,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 4:53:00 PM,Eunitor Owour (124),,254713078002,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 4:56:04 PM,Gladys Wamahiu (032),,Maureen Atieno (120),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (120)",
+,Gladys Wamahiu (032),,VMail (120),answered,00:00:00,00:00:03,00:00:23,0.00,Terminated by Gladys Wamahiu (032),
+1/31/2022 5:01:29 PM,+254717512401,,IVR (802),answered,00:00:00,00:00:06,00:00:06,0.00,Terminated by +254717512401,
+1/31/2022 5:02:50 PM,+254717512401,,IVR (802),answered,00:00:01,00:01:11,00:01:12,0.00,Terminated by +254717512401,
+1/31/2022 5:04:11 PM,+254717512401,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254717512401,
+1/31/2022 5:05:43 PM,+254717512401,,IVR (802),answered,00:00:01,00:00:27,00:00:28,0.00,Terminated by +254717512401,
+1/31/2022 5:12:40 PM,Eunitor Owour (124),,+254717512401,answered,00:00:30,00:02:50,00:03:20,2.83,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-0717512401_20220131141310%25282214%2529.wav
+1/31/2022 5:12:43 PM,254711486408,,IVR (802),answered,00:00:00,00:00:16,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,254711486408,,Q Clinical Care #2 (801),answered,00:00:00,00:03:14,,,Q Clinical Care #2 (801) replaced by Eunitor Owour (124),
+,254711486408,,Eunitor Owour (124),answered,00:00:13,00:03:23,00:07:06,0.00,Terminated by 254711486408,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BClinical%2520Care%2520%25232%25253A254711486408%255D_254711486408-124_20220131141613%25282215%2529.wav
+1/31/2022 5:24:49 PM,254707343129,,IVR (802),answered,00:00:01,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254707343129,,Q Customer Care #1 (800),answered,00:00:01,00:00:16,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,254707343129,,Maureen Atieno (120),answered,00:00:16,00:04:36,00:05:24,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A254707343129%255D_254707343129-120_20220131142521%25282216%2529.wav
+1/31/2022 5:45:55 PM,254707343129,,IVR (802),answered,00:00:00,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254707343129,,Q Customer Care #1 (800),answered,00:00:00,00:00:20,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,254707343129,,Gladys Wamahiu (032),answered,00:00:20,00:00:45,00:01:36,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A254707343129%255D_254707343129-032_20220131144626%25282217%2529.wav
+1/31/2022 5:47:18 PM,Gladys Wamahiu (032),,Janeffer Chege (123),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (123)",
+,Gladys Wamahiu (032),,VMail (123),answered,00:00:01,00:00:03,00:00:24,0.00,Terminated by Gladys Wamahiu (032),
+1/31/2022 5:47:22 PM,Maureen Atieno (120),,+254707343129,answered,00:00:06,00:00:33,00:00:39,0.55,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-707343129_20220131144728%25282219%2529.wav
+1/31/2022 5:49:40 PM,Janeffer Chege (123),,Gladys Wamahiu (032),answered,00:00:06,00:00:08,00:00:14,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-032_20220131144946%25282222%2529.wav
+1/31/2022 5:49:09 PM,Janeffer Chege (123),,+254707343129,answered,00:00:05,00:00:13,00:00:18,0.22,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0707343129_20220131144914%25282220%2529.wav
+1/31/2022 5:50:04 PM,Gladys Wamahiu (032),,Janeffer Chege (123),answered,00:00:02,00:00:08,00:00:10,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-123_20220131145006%25282224%2529.wav
+1/31/2022 5:49:43 PM,254707343129,,IVR (802),answered,00:00:00,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254707343129,,Q Customer Care #1 (800),answered,00:00:00,00:00:17,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,254707343129,,Maureen Atieno (120),answered,00:00:17,00:00:18,00:01:02,0.00,Terminated by 254707343129,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A254707343129%255D_254707343129-120_20220131145010%25282223%2529.wav
+1/31/2022 5:49:35 PM,254710325811,,IVR (802),answered,00:00:00,00:00:17,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,254710325811,,Q Clinical Care #2 (801),unanswered,00:00:00,00:00:00,00:00:17,0.00,Terminated by Q Clinical Care #2 (801),
+1/31/2022 5:50:30 PM,Janeffer Chege (123),,0712646193,unanswered,00:00:02,00:00:00,00:00:02,0.00,Failed,
+1/31/2022 5:50:45 PM,Janeffer Chege (123),,0712646193,unanswered,00:00:01,00:00:00,00:00:01,0.00,Failed,
+1/31/2022 5:50:53 PM,Gladys Wamahiu (032),,Janeffer Chege (123),answered,00:00:02,00:00:09,00:00:11,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-123_20220131145055%25282228%2529.wav
+1/31/2022 5:50:46 PM,254710325811,,IVR (802),answered,00:00:00,00:00:14,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254710325811,,Q Customer Care #1 (800),answered,00:00:00,00:00:02,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,254710325811,,Maureen Atieno (120),answered,00:00:02,00:00:38,00:00:56,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A254710325811%255D_254710325811-120_20220131145102%25282227%2529.wav
+1/31/2022 5:51:54 PM,Maureen Atieno (120),,Gladys Wamahiu (032),answered,00:00:04,00:00:09,00:00:13,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-032_20220131145158%25282230%2529.wav
+1/31/2022 5:52:12 PM,Gladys Wamahiu (032),,Maureen Atieno (120),answered,00:00:07,00:00:07,00:00:14,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-120_20220131145219%25282231%2529.wav
+1/31/2022 5:53:57 PM,+254114173022,,IVR (802),answered,00:00:01,00:00:09,00:00:10,0.00,Terminated by +254114173022,
+1/31/2022 5:54:25 PM,+254114173022,,IVR (802),answered,00:00:00,00:00:15,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254114173022,,Q Customer Care #1 (800),unanswered,00:00:01,00:00:04,,,Terminated by +254114173022,
+1/31/2022 5:55:21 PM,+254114173022,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254114173022,
+1/31/2022 5:55:22 PM,+254114173022,,IVR (802),answered,00:00:00,00:00:31,00:00:31,0.00,Terminated by +254114173022,
+1/31/2022 5:55:54 PM,+254114173022,,IVR (802),answered,00:00:01,00:00:25,00:00:26,0.00,Terminated by +254114173022,
+1/31/2022 6:01:19 PM,+254712097836,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254712097836,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:00,00:00:12,0.00,Terminated by +254712097836,
+1/31/2022 6:02:32 PM,+254728339662,,IVR (802),answered,00:00:01,00:00:32,00:00:33,0.00,Terminated by +254728339662,
+1/31/2022 6:02:34 PM,+254728339662,,IVR (802),answered,00:00:00,00:00:31,00:00:31,0.00,Terminated by +254728339662,
+1/31/2022 5:51:16 PM,Janeffer Chege (123),,+254707343129,answered,00:00:08,00:16:03,00:16:11,16.05,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254707343129_20220131145124%25282229%2529.wav
+1/31/2022 6:07:24 PM,254710325811,,IVR (802),answered,00:00:01,00:00:52,00:00:53,0.00,Terminated by 254710325811,
+1/31/2022 6:02:06 PM,+254712097836,,IVR (802),answered,00:00:00,00:00:14,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254712097836,,Q Clinical Care #2 (801),answered,00:00:01,00:05:12,,,Q Clinical Care #2 (801) replaced by Janeffer Chege (123),
+,+254712097836,,Janeffer Chege (123),answered,00:00:05,00:00:14,00:05:46,0.00,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BClinical%2520Care%2520%25232%25253A%252B254712097836%255D_%252B254712097836-123_20220131150733%25282238%2529.wav
+1/31/2022 6:08:23 PM,254710325811,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,254710325811,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:00,00:00:12,0.00,Terminated by Q Customer Care #1 (800),
+1/31/2022 6:11:39 PM,Maureen Atieno (120),,254721994060,answered,00:00:10,00:00:11,00:00:21,0.18,Terminated by 254721994060,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254721994060_20220131151149%25282243%2529.wav
+1/31/2022 6:12:14 PM,Maureen Atieno (120),,+254704598514,answered,00:00:10,00:00:04,00:00:14,0.07,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-704598514_20220131151224%25282244%2529.wav
+1/31/2022 6:12:36 PM,Maureen Atieno (120),,071210012,unanswered,00:00:07,00:00:00,00:00:07,0.00,Failed,
+1/31/2022 6:13:45 PM,+254756343062,,IVR (802),answered,00:00:00,00:00:05,00:00:05,0.00,Terminated by +254756343062,
+1/31/2022 6:13:05 PM,Janeffer Chege (123),,+254712097836,answered,00:00:19,00:01:44,00:02:03,1.73,Terminated by +254712097836,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254712097836_20220131151324%25282247%2529.wav
+1/31/2022 6:12:52 PM,Maureen Atieno (120),,+254712100012,answered,00:00:23,00:02:14,00:02:37,2.23,Terminated by +254712100012,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-0712100012_20220131151315%25282246%2529.wav
+1/31/2022 6:15:34 PM,Maureen Atieno (120),,254721994060,answered,00:00:06,00:01:15,00:01:21,1.25,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254721994060_20220131151540%25282249%2529.wav
+1/31/2022 6:16:23 PM,+254745924323,,IVR (802),answered,00:00:00,00:00:39,00:00:39,0.00,Terminated by +254745924323,
+1/31/2022 6:18:51 PM,+254700166467,,IVR (802),answered,00:00:01,00:00:32,00:00:33,0.00,Terminated by +254700166467,
+1/31/2022 6:18:52 PM,+254700166467,,IVR (802),answered,00:00:01,00:00:31,00:00:32,0.00,Terminated by +254700166467,
+1/31/2022 6:19:08 PM,+254700166467,,IVR (802),answered,00:00:00,00:00:56,00:00:56,0.00,Terminated by +254700166467,
+1/31/2022 6:19:44 PM,+254700166467,,IVR (802),answered,00:00:00,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254700166467,,Q Customer Care #1 (800),answered,00:00:00,00:00:10,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254700166467,,Maureen Atieno (120),answered,00:00:09,00:00:51,00:01:20,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254700166467%255D_%252B254700166467-120_20220131152004%25282254%2529.wav
+1/31/2022 6:25:09 PM,Maureen Atieno (120),,+254793269254,answered,00:00:24,00:03:08,00:03:32,3.13,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-793269254_20220131152533%25282256%2529.wav
+1/31/2022 6:26:10 PM,+254745924323,,IVR (802),answered,00:00:00,00:00:18,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254745924323,,Q Clinical Care #2 (801),answered,00:00:00,00:00:23,,,Q Clinical Care #2 (801) replaced by Eunitor Owour (124),
+,+254745924323,,Eunitor Owour (124),answered,00:00:23,00:02:18,00:03:22,0.00,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BClinical%2520Care%2520%25232%25253A%252B254745924323%255D_%252B254745924323-124_20220131152651%25282257%2529.wav
+1/31/2022 6:29:09 PM,Maureen Atieno (120),,+254700166467,answered,00:00:06,00:01:45,00:01:51,1.75,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-700166467_20220131152915%25282258%2529.wav
+1/31/2022 6:33:18 PM,+254724479499,,IVR (802),answered,00:00:00,00:00:11,00:00:11,0.00,Terminated by +254724479499,
+1/31/2022 6:33:31 PM,+254759391970,,IVR (802),answered,00:00:01,00:00:39,00:00:40,0.00,Terminated by +254759391970,
+1/31/2022 6:33:51 PM,+254724479499,,IVR (802),answered,00:00:01,00:00:49,00:00:50,0.00,Terminated by +254724479499,
+1/31/2022 6:34:48 PM,+254724479499,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254724479499,
+1/31/2022 6:35:31 PM,Janeffer Chege (123),,0112833481,unanswered,00:01:21,00:00:00,00:01:21,0.00,Failed,
+1/31/2022 6:30:43 PM,Eunitor Owour (124),,+254745924323,answered,00:00:07,00:07:14,00:07:21,7.23,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-%252B254745924323_20220131153050%25282259%2529.wav
+1/31/2022 6:37:34 PM,Janeffer Chege (123),,0112833481,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 6:36:59 PM,+254724479499,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254724479499,,Q Customer Care #1 (800),answered,00:00:00,00:00:13,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254724479499,,Maureen Atieno (120),answered,00:00:12,00:03:26,00:04:03,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254724479499%255D_%252B254724479499-120_20220131153724%25282265%2529.wav
+1/31/2022 6:44:00 PM,Maureen Atieno (120),,254768555875,answered,00:00:21,00:02:18,00:02:39,2.30,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254768555875_20220131154421%25282267%2529.wav
+1/31/2022 6:47:47 PM,Janeffer Chege (123),,+254114396968,answered,00:00:11,00:00:16,00:00:27,0.27,Terminated by +254114396968,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0114396968_20220131154758%25282269%2529.wav
+1/31/2022 6:49:14 PM,Janeffer Chege (123),,+254712646193,answered,00:00:06,00:00:47,00:00:53,0.78,Terminated by +254712646193,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0712646193_20220131154920%25282270%2529.wav
+1/31/2022 6:47:19 PM,Maureen Atieno (120),,254768555875,answered,00:00:27,00:02:50,00:03:17,2.83,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254768555875_20220131154746%25282268%2529.wav
+1/31/2022 6:50:17 PM,Janeffer Chege (123),,+254114396968,answered,00:00:13,00:01:12,00:01:25,1.20,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0114396968_20220131155030%25282271%2529.wav
+1/31/2022 6:51:51 PM,Janeffer Chege (123),,+254712097836,answered,00:00:15,00:01:15,00:01:30,1.25,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254712097836_20220131155206%25282272%2529.wav
+1/31/2022 6:53:04 PM,Maureen Atieno (120),,797380022,unanswered,00:00:24,00:00:00,00:00:24,0.00,Failed,
+1/31/2022 6:54:55 PM,Maureen Atieno (120),,797380025,unanswered,00:00:33,00:00:00,00:00:33,0.00,Failed,
+1/31/2022 6:57:40 PM,Janeffer Chege (123),,254707343129,unanswered,00:00:31,00:00:00,00:00:31,0.00,Failed,
+1/31/2022 6:58:17 PM,Janeffer Chege (123),,254707343129,answered,00:00:21,00:01:08,00:01:29,1.13,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254707343129_20220131155838%25282277%2529.wav
+1/31/2022 6:58:04 PM,+254780316000,,IVR (802),answered,00:00:00,00:00:19,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254780316000,,Q Customer Care #1 (800),answered,00:00:00,00:00:03,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254780316000,,Maureen Atieno (120),answered,00:00:03,00:04:44,00:05:09,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BCustomer%2520Care%2520%25231%25253A%252B254780316000%255D_%252B254780316000-120_20220131155826%25282276%2529.wav
+1/31/2022 7:05:12 PM,254707343129,,IVR (802),answered,00:00:00,00:00:39,00:00:39,0.00,Terminated by 254707343129,
+1/31/2022 7:09:01 PM,Maureen Atieno (120),,780316000,unanswered,00:00:32,00:00:00,00:00:32,0.00,Failed,
+1/31/2022 7:17:09 PM,Maureen Atieno (120),,780316000,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 7:24:32 PM,254707343129,,IVR (802),answered,00:00:00,00:00:56,00:00:56,0.00,Terminated by 254707343129,
+1/31/2022 7:25:07 PM,254707343129,,IVR (802),answered,00:00:00,00:00:08,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,254707343129,,Q Clinical Care #2 (801),answered,00:00:00,00:00:50,,,Q Clinical Care #2 (801) replaced by Eunitor Owour (124),
+,254707343129,,Eunitor Owour (124),answered,00:00:19,00:01:26,00:02:43,0.00,Terminated by 254707343129,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BClinical%2520Care%2520%25232%25253A254707343129%255D_254707343129-124_20220131162605%25282282%2529.wav
+1/31/2022 7:30:22 PM,Janeffer Chege (123),,254707343129,answered,00:00:06,00:00:44,00:00:50,0.73,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254707343129_20220131163028%25282283%2529.wav
+1/31/2022 7:32:00 PM,Gladys Wamahiu (032),,254706634010,answered,00:00:18,00:00:36,00:00:54,0.60,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-254706634010_20220131163218%25282284%2529.wav
+1/31/2022 7:42:35 PM,Gladys Wamahiu (032),,254708873500,unanswered,00:00:06,00:00:00,00:00:06,0.00,Failed,
+1/31/2022 7:44:30 PM,Gladys Wamahiu (032),,+254748954851,answered,00:00:12,00:00:44,00:00:56,0.73,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-0748954851_20220131164442%25282286%2529.wav
+1/31/2022 7:45:45 PM,+254713743572,,IVR (802),answered,00:00:01,00:00:31,00:00:32,0.00,Terminated by +254713743572,
+1/31/2022 7:46:50 PM,Gladys Wamahiu (032),,+254748954851,answered,00:00:07,00:00:14,00:00:21,0.23,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-0748954851_20220131164657%25282288%2529.wav
+1/31/2022 7:51:14 PM,Maureen Atieno (120),,254700117950,answered,00:00:23,00:01:26,00:01:49,1.43,Terminated by 254700117950,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254700117950_20220131165137%25282289%2529.wav
+1/31/2022 7:59:26 PM,Maureen Atieno (120),,254700117950,answered,00:00:24,00:01:18,00:01:42,1.30,Terminated by 254700117950,https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254700117950_20220131165950%25282290%2529.wav
+1/31/2022 5:08:45 PM,+254717512401,,IVR (802),answered,00:00:00,03:00:00,03:00:00,0.00,Terminated by +254717512401,
+1/31/2022 8:15:18 PM,Gladys Wamahiu (032),,254706261260,answered,00:00:14,00:02:57,00:03:11,2.95,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-254706261260_20220131171532%25282291%2529.wav
+1/31/2022 8:23:04 PM,Gladys Wamahiu (032),,254706261260,answered,00:00:20,00:00:10,00:00:30,0.17,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-254706261260_20220131172324%25282292%2529.wav
+1/31/2022 8:26:39 PM,+254729276235,,IVR (802),answered,00:00:00,00:00:10,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254729276235,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:05,,,Terminated by +254729276235,
+1/31/2022 8:25:19 PM,+254729276235,,IVR (802),answered,00:00:00,00:00:14,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254729276235,,Q Clinical Care #2 (801),answered,00:00:01,00:00:49,,,Q Clinical Care #2 (801) replaced by Eunitor Owour (124),
+,+254729276235,,Eunitor Owour (124),answered,00:00:19,00:00:10,00:01:33,0.00,Terminated by +254729276235,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BClinical%2520Care%2520%25232%25253A%252B254729276235%255D_%252B254729276235-124_20220131172623%25282293%2529.wav
+1/31/2022 8:26:59 PM,+254729276235,,IVR (802),answered,00:00:00,00:00:32,00:00:32,0.00,Terminated by +254729276235,
+1/31/2022 8:27:00 PM,+254729276235,,IVR (802),answered,00:00:00,00:00:31,00:00:31,0.00,Terminated by +254729276235,
+1/31/2022 8:27:25 PM,+254729276235,,IVR (802),answered,00:00:01,00:00:16,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254729276235,,Q Clinical Care #2 (801),answered,00:00:00,00:00:25,,,Q Clinical Care #2 (801) replaced by Janeffer Chege (123),
+,+254729276235,,Janeffer Chege (123),answered,00:00:24,00:00:05,00:01:11,0.00,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BClinical%2520Care%2520%25232%25253A%252B254729276235%255D_%252B254729276235-123_20220131172807%25282297%2529.wav
+1/31/2022 8:29:45 PM,Janeffer Chege (123),,+254707343129,answered,00:00:07,00:00:30,00:00:37,0.50,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-0707343129_20220131172952%25282298%2529.wav
+1/31/2022 8:31:32 PM,Janeffer Chege (123),,+254729276235,answered,00:00:18,00:01:18,00:01:36,1.30,Terminated by +254729276235,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254729276235_20220131173150%25282299%2529.wav
+1/31/2022 8:35:05 PM,Janeffer Chege (123),,Gladys Wamahiu (032),answered,00:00:06,00:00:33,00:00:39,0.00,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-032_20220131173511%25282300%2529.wav
+1/31/2022 8:35:59 PM,Gladys Wamahiu (032),,254706261260,unanswered,00:00:34,00:00:00,00:00:34,0.00,Failed,
+1/31/2022 8:37:19 PM,Janeffer Chege (123),,254706261260,unanswered,00:00:05,00:00:00,00:00:05,0.00,Failed,
+1/31/2022 8:36:38 PM,Gladys Wamahiu (032),,254706261260,answered,00:00:11,00:01:20,00:01:31,1.33,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-254706261260_20220131173649%25282302%2529.wav
+1/31/2022 8:38:12 PM,Gladys Wamahiu (032),,Janeffer Chege (123),answered,00:00:04,00:00:27,00:00:31,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-123_20220131173816%25282304%2529.wav
+1/31/2022 8:38:46 PM,+254706420288,,IVR (802),answered,00:00:00,00:00:17,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254706420288,,Q Clinical Care #2 (801),unanswered,00:00:00,00:00:10,,,Terminated by +254706420288,
+1/31/2022 8:40:20 PM,Eunitor Owour (124),,706420288,unanswered,00:00:13,00:00:00,00:00:13,0.00,Failed,
+1/31/2022 8:38:56 PM,Janeffer Chege (123),,254706261260,answered,00:00:15,00:06:45,00:07:00,6.75,Terminated by Janeffer Chege (123),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-254706261260_20220131173911%25282306%2529.wav
+1/31/2022 8:46:42 PM,+254782298808,,IVR (802),answered,00:00:00,00:00:26,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254782298808,,Q Customer Care #1 (800),answered,00:00:00,00:00:09,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254782298808,,Gladys Wamahiu (032),answered,00:00:09,00:00:33,00:01:17,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254782298808%255D_%252B254782298808-032_20220131174717%25282309%2529.wav
+1/31/2022 8:49:33 PM,Gladys Wamahiu (032),,+254718050387,answered,00:00:19,00:00:36,00:00:55,0.60,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-718050387_20220131174952%25282310%2529.wav
+1/31/2022 8:46:11 PM,Maureen Atieno (120),,254100399751,answered,00:00:09,00:05:37,00:05:46,5.62,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-254100399751_20220131174620%25282308%2529.wav
+1/31/2022 8:50:32 PM,Gladys Wamahiu (032),,+254782298808,answered,00:00:11,00:01:53,00:02:04,1.88,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-%252B254782298808_20220131175043%25282311%2529.wav
+1/31/2022 9:06:57 PM,+254750628102,,IVR (802),answered,00:00:00,00:00:27,00:00:27,0.00,Terminated by +254750628102,
+1/31/2022 9:07:33 PM,+254750628102,,IVR (802),answered,00:00:01,00:00:07,00:00:08,0.00,Terminated by +254750628102,
+1/31/2022 9:15:27 PM,+254102124456,,IVR (802),answered,00:00:00,00:00:12,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254102124456,,Q Customer Care #1 (800),unanswered,00:00:00,00:00:26,,,Terminated by +254102124456,
+1/31/2022 9:08:21 PM,+254750628102,,IVR (802),answered,00:00:00,00:08:17,00:08:17,0.00,Terminated by +254750628102,
+1/31/2022 9:20:59 PM,+254721369580,,IVR (802),answered,00:00:01,00:00:18,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254721369580,,Q Customer Care #1 (800),answered,00:00:00,00:00:16,,,Q Customer Care #1 (800) replaced by Gladys Wamahiu (032),
+,+254721369580,,Gladys Wamahiu (032),answered,00:00:16,00:00:35,00:01:26,0.00,Terminated by +254721369580,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BCustomer%2520Care%2520%25231%25253A%252B254721369580%255D_%252B254721369580-032_20220131182134%25282316%2529.wav
+1/31/2022 6:23:29 PM,+254706061916,,IVR (802),answered,00:00:00,03:00:00,03:00:00,0.00,Terminated by +254706061916,
+1/31/2022 9:23:08 PM,+254782298808,,IVR (802),answered,00:00:00,00:00:11,,,IVR (802) replaced by Q Customer Care #1 (800),
+,+254782298808,,Q Customer Care #1 (800),answered,00:00:01,00:00:15,,,Q Customer Care #1 (800) replaced by Maureen Atieno (120),
+,+254782298808,,Maureen Atieno (120),answered,00:00:15,00:00:00,,,Picked up by Maureen Atieno (120),
+,+254782298808,,Maureen Atieno (120),answered,00:00:00,00:00:33,00:01:15,0.00,Terminated by Maureen Atieno (120),https://pendahealth.elastix.com:5001/#/download_record/120%252F%255BMaureen%2520Atieno%255D_120-%252B254782298808_20220131182335%25282319%2529.wav
+1/31/2022 9:23:21 PM,Gladys Wamahiu (032),,+254793269677,answered,00:00:20,00:00:43,00:01:03,0.72,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-793269677_20220131182341%25282318%2529.wav
+1/31/2022 9:24:35 PM,Gladys Wamahiu (032),,+254721369580,answered,00:00:06,00:00:14,00:00:20,0.23,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-%252B254721369580_20220131182441%25282320%2529.wav
+1/31/2022 9:33:25 PM,+254720268196,,IVR (802),answered,00:00:00,00:00:33,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254720268196,,Q Clinical Care #2 (801),unanswered,00:00:00,00:00:46,,,Terminated by +254720268196,
+1/31/2022 9:34:49 PM,+254720268196,,IVR (802),answered,00:00:00,00:00:15,00:00:15,0.00,Terminated by +254720268196,
+1/31/2022 9:35:07 PM,+254720268196,,IVR (802),answered,00:00:01,00:00:32,00:00:33,0.00,Terminated by +254720268196,
+1/31/2022 9:35:09 PM,+254720268196,,IVR (802),answered,00:00:00,00:00:31,00:00:31,0.00,Terminated by +254720268196,
+1/31/2022 9:36:12 PM,+254720268196,,IVR (802),answered,00:00:01,00:00:16,,,IVR (802) replaced by Q Clinical Care #2 (801),
+,+254720268196,,Q Clinical Care #2 (801),answered,00:00:01,00:00:16,,,Q Clinical Care #2 (801) replaced by Janeffer Chege (123),
+,+254720268196,,Janeffer Chege (123),answered,00:00:16,00:00:00,,,Picked up by Janeffer Chege (123),
+,+254720268196,,Janeffer Chege (123),answered,00:00:00,00:01:20,00:02:10,0.00,Terminated by +254720268196,https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-%252B254720268196_20220131183646%25282327%2529.wav
+1/31/2022 9:28:43 PM,Eunitor Owour (124),,+254112607375,answered,00:00:11,00:12:25,00:12:36,12.42,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-0112607375_20220131182854%25282321%2529.wav
+1/31/2022 9:41:22 PM,Gladys Wamahiu (032),,Eunitor Owour (124),answered,00:00:08,00:02:22,00:02:30,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-124_20220131184130%25282328%2529.wav
+1/31/2022 9:44:11 PM,Gladys Wamahiu (032),,+254718050387,answered,00:00:13,00:02:02,00:02:15,2.03,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-718050387_20220131184424%25282329%2529.wav
+1/31/2022 9:46:27 PM,Gladys Wamahiu (032),,Eunitor Owour (124),answered,00:00:09,00:00:32,00:00:41,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-124_20220131184636%25282330%2529.wav
+1/31/2022 9:51:45 PM,Gladys Wamahiu (032),,Janeffer Chege (123),answered,00:00:14,00:00:00,,,Picked up by Janeffer Chege (123),
+,Gladys Wamahiu (032),,Janeffer Chege (123),answered,00:00:00,00:01:50,00:02:04,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/123%252F%255BJaneffer%2520Chege%255D_123-032_20220131185159%25282332%2529.wav
+1/31/2022 9:57:05 PM,Eunitor Owour (124),,+254718050387,answered,00:00:13,00:03:15,00:03:28,3.25,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-0718050387_20220131185718%25282333%2529.wav
+1/31/2022 10:01:29 PM,Eunitor Owour (124),,Gladys Wamahiu (032),unanswered,00:00:00,00:00:00,,,Forwarded to VMail (032),
+,Eunitor Owour (124),,VMail (032),answered,00:00:00,00:00:04,00:00:04,0.00,Terminated by Eunitor Owour (124),
+1/31/2022 10:00:36 PM,Gladys Wamahiu (032),,Eunitor Owour (124),answered,00:00:05,00:00:41,00:00:46,0.00,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-124_20220131190041%25282334%2529.wav
+1/31/2022 10:01:56 PM,Eunitor Owour (124),,Janeffer Chege (123),answered,00:00:08,00:02:03,00:02:11,0.00,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-123_20220131190204%25282336%2529.wav
+1/31/2022 10:06:00 PM,Eunitor Owour (124),,Janeffer Chege (123),answered,00:00:04,00:00:45,00:00:49,0.00,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-123_20220131190604%25282337%2529.wav
+1/31/2022 10:12:28 PM,Gladys Wamahiu (032),,+254721369580,answered,00:00:13,00:00:16,00:00:29,0.27,Terminated by +254721369580,https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-0721369580_20220131191241%25282338%2529.wav
+1/31/2022 10:13:21 PM,Eunitor Owour (124),,+254112607375,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 10:13:27 PM,Eunitor Owour (124),,+254112607375,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 10:13:49 PM,Eunitor Owour (124),,+254112607375,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 10:13:08 PM,Gladys Wamahiu (032),,+254782298808,answered,00:00:05,00:01:46,00:01:51,1.77,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-0782298808_20220131191313%25282339%2529.wav
+1/31/2022 10:15:04 PM,Gladys Wamahiu (032),,Eunitor Owour (124),unanswered,00:00:00,00:00:00,,,"Busy, forwarded to VMail (124)",
+,Gladys Wamahiu (032),,VMail (124),answered,00:00:00,00:00:02,00:00:02,0.00,Terminated by Gladys Wamahiu (032),
+1/31/2022 10:14:34 PM,Eunitor Owour (124),,+254112607375,answered,00:00:29,00:00:26,00:00:55,0.43,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-0112607375_20220131191503%25282343%2529.wav
+1/31/2022 10:15:37 PM,Gladys Wamahiu (032),,Eunitor Owour (124),answered,00:00:05,00:00:11,00:00:16,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-124_20220131191542%25282345%2529.wav
+1/31/2022 10:15:57 PM,Gladys Wamahiu (032),,Eunitor Owour (124),answered,00:00:05,00:00:09,00:00:14,0.00,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-124_20220131191602%25282346%2529.wav
+1/31/2022 10:16:25 PM,Eunitor Owour (124),,Gladys Wamahiu (032),unanswered,00:00:00,00:00:00,,,Forwarded to VMail (032),
+,Eunitor Owour (124),,VMail (032),answered,00:00:00,00:00:05,00:00:05,0.00,Terminated by Eunitor Owour (124),
+1/31/2022 10:16:19 PM,Gladys Wamahiu (032),,Eunitor Owour (124),unanswered,00:00:20,00:00:00,,,"No answer, forwarded to VMail (124)",
+,Gladys Wamahiu (032),,VMail (124),answered,00:00:00,00:00:09,00:00:29,0.00,Terminated by Gladys Wamahiu (032),
+1/31/2022 10:16:44 PM,Eunitor Owour (124),,Gladys Wamahiu (032),unanswered,00:00:00,00:00:00,,,Forwarded to VMail (032),
+,Eunitor Owour (124),,VMail (032),answered,00:00:04,00:00:10,00:00:14,0.00,Terminated by Eunitor Owour (124),
+1/31/2022 10:18:50 PM,+254711798689,,Umoja 1 (019),unanswered,00:00:29,00:00:00,00:00:29,0.00,Failed Canceled,
+1/31/2022 10:19:39 PM,Gladys Wamahiu (032),,+254782298808,answered,00:00:10,00:00:12,00:00:22,0.20,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-%252B254782298808_20220131191949%25282351%2529.wav
+1/31/2022 10:20:29 PM,Gladys Wamahiu (032),,+254718050387,answered,00:00:18,00:00:28,00:00:46,0.47,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-718050387_20220131192047%25282352%2529.wav
+1/31/2022 10:27:46 PM,Eunitor Owour (124),,+254718050387,answered,00:00:17,00:00:13,00:00:30,0.22,Terminated by +254718050387,https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-0718050387_20220131192803%25282353%2529.wav
+1/31/2022 10:28:55 PM,Eunitor Owour (124),,+254718050387,answered,00:00:08,00:02:10,00:02:18,2.17,Terminated by Eunitor Owour (124),https://pendahealth.elastix.com:5001/#/download_record/124%252F%255BEunitor%2520Owour%255D_124-%252B254718050387_20220131192903%25282354%2529.wav
+1/31/2022 10:31:29 PM,Eunitor Owour (124),,+254112607375,unanswered,00:00:01,00:00:00,00:00:01,0.00,Target not found,
+1/31/2022 10:31:38 PM,Eunitor Owour (124),,+254112607375,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 10:31:53 PM,Eunitor Owour (124),,+254112607375,unanswered,00:00:00,00:00:00,00:00:00,0.00,Target not found,
+1/31/2022 10:32:06 PM,Eunitor Owour (124),,Gladys Wamahiu (032),unanswered,00:00:00,00:00:00,,,Forwarded to VMail (032),
+,Eunitor Owour (124),,VMail (032),answered,00:00:00,00:00:03,00:00:03,0.00,Terminated by Eunitor Owour (124),
+1/31/2022 10:32:21 PM,Eunitor Owour (124),,+254112607375,unanswered,00:00:01,00:00:00,00:00:01,0.00,Target not found,
+1/31/2022 10:32:51 PM,Gladys Wamahiu (032),,Eunitor Owour (124),answered,00:00:05,00:00:34,00:00:39,0.00,Terminated by Gladys Wamahiu (032),https://pendahealth.elastix.com:5001/#/download_record/032%252F%255BGladys%2520Wamahiu%255D_032-124_20220131193256%25282360%2529.wav
+1/31/2022 11:35:43 PM,Umoja 1 (019),, (019),answered,00:00:00,00:00:00,,,Picked up by Umoja 1 (019),https://pendahealth.elastix.com:5001/#/download_record/019%252F%255BUmoja%25201%255D_019-%252B254722337493_20220131203543%25282362%2529.wav
+,Umoja 1 (019),, (019),answered,00:00:00,00:00:00,00:00:00,0.00,Terminated by Umoja 1 (019),https://pendahealth.elastix.com:5001/#/download_record/019%252F%255BUmoja%25201%255D_019-%252B254722337493_20220131203543%25282362%2529.wav
+1/31/2022 11:35:13 PM,+254722337493,,Umoja 1 (019),unanswered,00:00:30,00:00:00,00:00:30,0.00,Failed Canceled,
+Total:,,,Calls - 815,,03:08:43,15:28:06,18:36:49,320.06,,
+,,3CX Ltd.,,,,,,,,
